@@ -1,5 +1,3 @@
-import React from "react";
-
 const committees = [
   {
     title: "Honorary Chairs",
@@ -8,6 +6,7 @@ const committees = [
       "Prof. GS Tomar, REC Sonbhadra, UP",
       "Prof. Dhruva Ghai, Oriental University, Indore",
       "Prof. Garima Ghai, Oriental University, Indore",
+      "Dr. Ghassen Ben Brahim, PMU, Kingdom of Saudi Arabia",
     ],
   },
   {
@@ -20,7 +19,7 @@ const committees = [
   {
     title: "General Co-Chairs",
     members: [
-      "Dr. Abul Bashar, PMU, United Arab Emirates",
+      "Dr. Abul Bashar, PMU, Kingdom of Saudi Arabia",
       "Dr. Robin Singh Bhadoria, NIT Hamirpur",
       "Dr. Manish Vyas, Oriental University, Indore",
     ],
@@ -31,6 +30,7 @@ const committees = [
       "Dr. Atul Agarwal, Oriental University, Indore",
       "Dr. Vivek Singh Kushwah, CBIT Hyderabad",
       "Dr. Ashish Bagwari, WIT Dehradun",
+      "Dr. Kashif Amjad, PMU, Kingdom of Saudi Arabia",
     ],
   },
   {
@@ -46,6 +46,7 @@ const committees = [
       "Dr. Megha Singh, Oriental University, Indore",
       "Dr. Bishwajeet Pandey, Astana IT University, Kazakhstan",
       "Mr. Anubhav Singh, Redbus Pvt Ltd",
+      "Dr. Ghazanfar Latif, PMU, Kingdom of Saudi Arabia",
     ],
   },
   {
@@ -62,6 +63,8 @@ const committees = [
       "Dr. Jagdish Bansal, South Asia University, New Delhi",
       "Dr. Jitendra Agrawal, RGPV Bhopal",
       "Mr. Kuldeep Singh Jadon, NIT Hamirpur",
+      "Dr. Nazeeruddin Mohammad, PMU, Kingdom of Saudi Arabia",
+      "Dr. Majid Ali Khan, PMU, Kingdom of Saudi Arabia",
     ],
   },
   {
@@ -81,6 +84,15 @@ const committees = [
       "Prof. Tai Hoon Kim, Korea",
       "Prof. Dr. Mehmet Efe, Turkey",
       "Dr. Layth AbdulRasool, Iran",
+      "Dr. Jawad Alkhateeb, PMU, Kingdom of Saudi Arabia",
+      "Dr. Shahabuddin Mohammad, PMU, Kingdom of Saudi Arabia",
+      "Dr. Taha Houda, PMU, Kingdom of Saudi Arabia",
+      "Dr. Mohammad Mudawar, PMU, Kingdom of Saudi Arabia",
+      "Dr. Ehsan Rahman, PMU, Kingdom of Saudi Arabia",
+      "Dr. Jawad Ahmad, PMU, Kingdom of Saudi Arabia",
+      "Dr. Marius Nagy, PMU, Kingdom of Saudi Arabia",
+      "Dr. Khaled Fawagreh, PMU, Kingdom of Saudi Arabia",
+      "Dr. Anwar Mirza, PMU, Kingdom of Saudi Arabia",
       "Prof. Narendra S. Chaudhari, IIT Indore, India",
       "Prof. Dr. Ilias Savvas, Greece",
       "Dr. Ratheesh Kumar Meleppa, University of California, Davis, USA",
@@ -234,6 +246,5 @@ const Committee = () => {
     </div>
   );
 };
-
 
 export default Committee;
