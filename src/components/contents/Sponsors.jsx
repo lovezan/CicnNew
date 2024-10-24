@@ -1,28 +1,26 @@
-import React from 'react';
-
 // Importing images
-import Ieee from '../../assets/IEEE.jpeg';
-import ou from '../../assets/ou_logo.jpg';
-import mir from '../../assets/mir.png';
-import iete2 from '../../assets/IETE.png';
-import PMBFU from '../../assets/PMBFU.jpg';
+import Ieee from "../../assets/IEEE.jpeg";
+import ou from "../../assets/ou_logo.jpg";
+import pmu from "../../assets/PMU.jpg";
+import mir from "../../assets/mir.png";
+import iete2 from "../../assets/IETE.png";
 
 const sections = [
   {
-    title: 'Organized and Hosted at',
-    description: 'Oriental University, Indore (MP) IEEE Madhya Pradesh Section',
+    title: "Organized and Hosted at",
+    description: "Oriental University, Indore (MP) IEEE Madhya Pradesh Section",
     images: [
-      { src: ou, alt: 'Oriental University Indore' },
-      { src: Ieee, alt: 'Technical Sponsor' },
+      { src: ou, alt: "Oriental University Indore" },
+      { src: Ieee, alt: "Technical Sponsor" },
     ],
   },
   {
-    title: 'Technically Co-Sponsored',
-    description: 'MIR Labs and IETE Gwalior',
+    title: "Technically Co-Sponsored",
+    description: "MIR Labs and IETE Gwalior",
     images: [
-      { src: mir, alt: 'Mir labs' },
-      { src: iete2, alt: 'IETE Gwalior' },
-      { src: PMBFU, alt: 'PMU' },
+      { src: mir, alt: "Mir labs" },
+      { src: iete2, alt: "IETE Gwalior" },
+      { src: pmu, alt: "Prince Muhammad Bin Fahd Univercity" },
     ],
   },
   // Add more sections as needed

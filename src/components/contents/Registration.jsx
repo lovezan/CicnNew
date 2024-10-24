@@ -14,25 +14,24 @@ const Registration = () => {
           </h1>
         </center>
         <p className="text-base md:text-lg text-gray-700 mb-4 ">
-        The fee structure is as per the table below.
+          The fee structure is as per the table below.
         </p>
         <p className="text-base md:text-lg text-gray-700 mb-4 ">
           <strong>
-          Note that only one paper
-          and one presenter are covered by an author registration. Authors with
-          multiple papers need to register extra papers as per the chart below.
-          However, if a single author is presenting multiple papers, some
-          relaxation in registration fees will be given. This is not applicable
-          for students. If more than one author is coming for the presentation,
-          additional amounts for attendees must be credited.{" "}
-         
+            Note that only one paper and one presenter are covered by an author
+            registration. Authors with multiple papers need to register extra
+            papers as per the chart below. However, if a single author is
+            presenting multiple papers, some relaxation in registration fees
+            will be given. This is not applicable for students. If more than one
+            author is coming for the presentation, additional amounts for
+            attendees must be credited.{" "}
           </strong>
         </p>
-         
-        <strong className="text-base md:text-lg text-gray-700 mb-4 " >
-            Normal paper length must be limited to 5 pages and each extra page
-            costs will be Rs 800 per page (for indian) and $20 per page (others)
-          </strong>
+
+        <strong className="text-base md:text-lg text-gray-700 mb-4 ">
+          Normal paper length must be limited to 5 pages and each extra page
+          costs will be Rs 800 per page (for indian) and $20 per page (others)
+        </strong>
         <div className="overflow-x-auto mb-8">
           <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
             <thead>
@@ -121,27 +120,6 @@ const Registration = () => {
           </div>
 
           <div className="mb-6">
-            <div className="flex items-center justify-center mb-2">
-              <FaCashRegister className="text-2xl text-gray-700 mr-2" />
-              <p className="text-gray-700 mb-4">
-                <strong>
-                  <u>Payment by NEFT / Cash (Indian Authors Only)</u>
-                </strong>
-                <br />
-                <strong>Account No:</strong> 63025587900
-                <br />
-                <strong>Account Name:</strong> IEEE MP Section
-                <br />
-                <strong>Bank Name:</strong> State Bank of India (SBI)
-                <br />
-                <strong>Bank Address:</strong> IET DAVV, Khandwa Road, Indore
-                452017, Madhya Pradesh
-                <br />
-                <strong>IFSC Code:</strong> SBIN0030470
-                <br />
-                <strong>SWIFT:</strong> SBININBB267
-              </p>
-            </div>
             <p className="text-gray-700 mb-2">
               <strong>
                 <u>Payment by Other than Indian Authors</u>

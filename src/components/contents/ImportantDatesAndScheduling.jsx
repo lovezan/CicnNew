@@ -1,6 +1,7 @@
-import React from 'react';
-import { FaClock } from 'react-icons/fa'; // Import an icon from react-icons
-import ImportantDates1 from './ImportantDates1';
+import React from "react";
+import { FaClock } from "react-icons/fa"; // Import an icon from react-icons
+
+import Importantdates from "./ImportantDates1.jsx";
 
 const ImportantDatesAndScheduling = () => {
   return (
@@ -11,9 +12,11 @@ const ImportantDatesAndScheduling = () => {
       <h1 className="text-3xl font-extrabold mb-10 text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-blue-700">
         Important Dates and Scheduling
       </h1>
-      <ImportantDates1 />
+      <div className="bg-gray-100 text-gray-800 text-center text-2xl font-extrabold mb-10 text-transparent bg-clip-text bg-gradient-to-r from-teal-600 to-blue-700">
+        <Importantdates />
+      </div>
       <p className="text-xl">
-         scheduling will be released soon. Stay tuned!
+        The important dates and scheduling will be released soon. Stay tuned!
       </p>
     </div>
   );

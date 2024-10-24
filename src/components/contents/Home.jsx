@@ -27,7 +27,7 @@ const Home = () => {
           Madhya Pradesh Section as the flagship conference of the Section. The
           conference is technically sponsored by{" "}
           <strong>
-            Prince Mohammad bin Fahd University(PMU), in Al-Khobar, Saudi Arabia{" "}
+            Prince Mohammad bin Fahd University(PMU), in Al-Khobar, Saudi Arabia
           </strong>{" "}
           and <strong>Machine Intelligence Research Labs, Gwalior</strong> and{" "}
           <strong>IETE Gwalior Sub-Centre</strong> to address various issues to
