@@ -275,10 +275,10 @@ const Registration = () => {
           <div className="mb-6">
             <p className="text-gray-700 mb-2">
               <strong>
-                <u>Payment by Other than Indian Authors</u>
+                <u>Payment through PayPal can be made at: </u>
               </strong>
               <br />
-              Payment by PAYPAL:{" "}
+
               <a
                 href="mailto:abhineeet@gmail.com"
                 className="text-blue-500 hover:underline"
