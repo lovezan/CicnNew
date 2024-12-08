@@ -1,11 +1,11 @@
 // src/components/contents/ImportantDates1.jsx
-import React from "react";
+// import React from "react";
 // import './importantDates1.css'; // Import the additional CSS file
 
 const ImportantDates1 = () => {
   const dates = [
     { event: "Paper Submission Opening", date: "20 May 2024", remarks: "" },
-    { event: "Paper Submission Closing", date: "10 nov 2024", remarks: "" },
+    { event: "Paper Submission Closing", date: "10 Nov 2024", remarks: "" },
     {
       event: "Notification Starts",
       date: "20 days from date of submission",

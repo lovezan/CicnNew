@@ -98,38 +98,7 @@ const Registration = () => {
             </strong>
           </p>
 
-          <div className="mb-6">
-            <div className="flex items-center justify-center mb-2">
-              <FaCreditCard className="text-2xl text-red-500 mr-2" />
-              <p className="text-gray-700 mb-2">
-                <strong>
-                  <u>Payment by Credit Card/Debit Card/Internet Banking</u>
-                </strong>{" "}
-                (Bank charges as applicable)
-              </p>
-            </div>
-            <a
-              href="https://www.payumoney.com/paybypayumoney/#/26517"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-block bg-red-500 text-white px-6 py-3 rounded-full shadow-lg hover:bg-red-600 transition duration-300"
-            >
-              <strong>CLICK HERE to Pay</strong>
-            </a>
-            <div className="mt-4">
-              <a
-                href="https://www.payumoney.com/paybypayumoney/#/26517"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <img
-                  src="https://www.payumoney.com//media/images/payby_payumoney/buttons/111.png"
-                  alt="PayU"
-                  className="mx-auto"
-                />
-              </a>
-            </div>
-          </div>
+         
 
           {/* Bank Transfer Details Section */}
           <div className="mb-6 p-6 border border-gray-300 rounded-lg shadow-md bg-white">
@@ -209,7 +178,7 @@ const Registration = () => {
               </div>
 
               {/*SWIFT Code */}
-              <div className="flex items-center justify-between">
+              {/* <div className="flex items-center justify-between">
                 <div className="flex items-center">
                   <i className="fas fa-code text-indigo-500 mr-2"></i>
                   <span className="text-gray-700">
@@ -227,7 +196,7 @@ const Registration = () => {
                 >
                   {copied === "ICICINBBNRI" ? "Copied!" : <FaCopy />}
                 </button>
-              </div>
+              </div> */}
               {/* Branch */}
               <div className="flex items-center justify-between">
                 <div className="flex items-center">

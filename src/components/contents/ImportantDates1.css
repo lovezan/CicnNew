@@ -1,0 +1,38 @@
+/* Make the container scrollable with no default scrollbar */
+
+.email-cell p {
+  word-wrap: break-word; /* Ensures long words wrap to the next line */
+  max-width: 12rem; /* Adjust the width as per your design */
+  white-space: normal; /* Allows wrapping of text */
+  overflow-wrap: break-word; /* Ensures text breaks properly */
+}
+.paper-title-cell p,
+.author-cell p {
+  width: 20rem; /* Adjust the maximum width as per your design */
+}
+
+.custom-scrollbar {
+  overflow-y: auto;
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: #4c9c8f #f1f5f9; /* Firefox */
+}
+
+/* Custom Scrollbar for Webkit browsers (Chrome, Safari) */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #4c9c8f;
+  border-radius: 10px;
+  border: 3px solid #f1f1f1;
+}
+
+/* When scrolling, change the thumb color */
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background-color: #3e7a66;
+}

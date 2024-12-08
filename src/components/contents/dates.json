@@ -1,0 +1,2096 @@
+{
+    "tracks": [
+      {
+        "name": "Track-A: Communication Systems, Wireless Networks and MEMS",
+        "papers": [
+          {
+            "ID": "A-01",
+            "PaperID": "1571086130",
+            "Title": "A Hybrid PSO-AOQPIO Approach for Efficient Wind-Affected UAV Task Allocation and Path Optimization",
+            "Authors": "Gurwinder Singh; Ranjan Walia; Ram Kishun Lodhi",
+            "Email": "gurwinder.e11253@cumail.in"
+          },
+          {
+            "ID": "A-02",
+            "PaperID": "1571078222",
+            "Title": "A Modified Orthogonalization Minimization Algorithm for Millimeter Massive MIMO Communications",
+            "Authors": "Yaseen Aiman Mohammed; Anas Lateef Mahmood",
+            "Email": "st.yaseen.aiman.mohammed@nahrainuniv.edu.iq"
+          },
+          {
+            "ID": "A-03",
+            "PaperID": "1571082781",
+            "Title": "A Novel Multiple Input-Multiple Output Antenna Using Modified Co-Centric Hexagonal Resonator for Wi-Fi and 5G Communication System",
+            "Authors": "Kanishk Garg; Smriddhi Lau; Monika Kaushik; Usha Sharma; Megha Agarwal",
+            "Email": "starkanishkgarg@gmail.com"
+          },
+          {
+            "ID": "A-04",
+            "PaperID": "1571083843",
+            "Title": "An Influence of Photonic Crystal Fibres on Bio Medical Applications in the Terahertz Regime Band",
+            "Authors": "Ajay Bale; Santhosh Krishna B V",
+            "Email": "ajaysudhirbale@gmail.com"
+          },
+          {
+            "ID": "A-05",
+            "PaperID": "1571081098",
+            "Title": "An Inventive DGS-Based Textile Antenna With Semi-Circular Ring With Triangular Cut for Healthcare Applications",
+            "Authors": "Garima Singh; Akhilendra Pratap Singh; Vinod Singh; Zakir Ali",
+            "Email": "ggarima.singh@gmail.com"
+          },
+          {
+            "ID": "A-06",
+            "PaperID": "1571060797",
+            "Title": "Clock Synchronization Protocols and Models for Wireless Sensor Networks",
+            "Authors": "Murugaiyan Swaminathan Nidhya; Geetha S",
+            "Email": "ms.nidhya@jainuniversity.ac.in"
+          },
+          {
+            "ID": "A-07",
+            "PaperID": "1571075498",
+            "Title": "Comprehensive Test Approaches for MIMO and MEMS: Addressing Challenges in Miniaturized and Multi-Channel Systems",
+            "Authors": "Ramanjaneyulu K; Kanavath Chinna Kullayappa, Naik; Kishore Babu K; Vidyanadha Babu D; Mohamed Kalith Oli M",
+            "Email": "ramanjaneyulu.k@qiscet.edu.in"
+          },
+          {
+            "ID": "A-08",
+            "PaperID": "1571084463",
+            "Title": "Design of Conformal Flexible Monopole Antenna With Corrugated Structures for Lower Band Sub 6GHz Applications",
+            "Authors": "Nalini Prasad Tirumani; Satti Sudha Mohan Reddy; Kolisetty Rama Devi",
+            "Email": "naliniprasad@srkrec.ac.in"
+          },
+          {
+            "ID": "A-09",
+            "PaperID": "1571087320",
+            "Title": "Design of Quad-Port Circular-Shaped MIMO Patch Antenna for Triple-Band THz Wireless Communication",
+            "Authors": "Chirukuri Naga Phaneendra; Ketavath Kumar Naik",
+            "Email": "phani.chirukuri@gmail.com"
+          },
+          {
+            "ID": "A-10",
+            "PaperID": "1571094438",
+            "Title": "Design of UWB Textile Antenna for Wireless Communication Applications",
+            "Authors": "Raghav Dwivedi; Dinesh Kumar Srivastava; Vinod Singh",
+            "Email": "raghav.psit@gmail.com"
+          },
+          {
+            "ID": "A-11",
+            "PaperID": "1571097228",
+            "Title": "Dipole Antenna Array Synthesis for Improvement of the Performance Using FPA",
+            "Authors": "Hemant Patidar; Prasanna Kumar Singh; Arnab De; Prashant Upadhyay; Kuldeep Yadav",
+            "Email": "hemantpatidar08@gmail.com"
+          },
+          {
+            "ID": "A-12",
+            "PaperID": "1571089328",
+            "Title": "Enhancing Agricultural Efficiency With IoT-Enabled Precision Irrigation Management Using LoRaWAN Technology",
+            "Authors": "J Jayasinghe; T Thennakoon; Chamod Ruchira Gamage",
+            "Email": "it20624023@my.sliit.lk"
+          },
+          {
+            "ID": "A-13",
+            "PaperID": "1571098081",
+            "Title": "Enhancing Wireless Network Performance Using Zone-Based Reinforcement Learning: the ZoneWise-RL Approach",
+            "Authors": "Swati Bhagoriya; M A Rizvi; Kanak Saxena",
+            "Email": "swatibhagoriya@gmail.com"
+          },
+          {
+            "ID": "A-14",
+            "PaperID": "1571082836",
+            "Title": "Feeding Methods of Broadband CP Antenna: A Comprehensive Review",
+            "Authors": "Aniket Vasant Gunjal; Ujwala Kshirsagar",
+            "Email": "aniketgunjal89@gmail.com"
+          },
+          {
+            "ID": "A-15",
+            "PaperID": "1571093147",
+            "Title": "FinFET Based Low Power and High Speed 3-Stage Comparator",
+            "Authors": "Valluru Pavani; Simhadri Sai Kiran; Tentu Yaswanth; Marisetti Upendr; Simhadri Mahesh; Jami Venkata Suman, Jvs",
+            "Email": "21341A04H7@gmrit.edu.in"
+          },
+          {
+            "ID": "A-16",
+            "PaperID": "1571085728",
+            "Title": "Modulation-Aware Asymmetrical Traffic Demand Splitting Based on Heterogeneous Traffic Demands",
+            "Authors": "Amit Khanjan Sarma; Sanjib K. Deka; Nityananda Sarma",
+            "Email": "amitkhanjansarma@gmail.com"
+          },
+          {
+            "ID": "A-17",
+            "PaperID": "1571089662",
+            "Title": "Optimizing Mobile Charger Scheduling in Wireless Rechargeable Sensor Networks Using Min-Heap Algorithm",
+            "Authors": "Md Kamaruzzaman; Abhijit Chandra",
+            "Email": "mdkamruzzaman.iee.rs@jadavpuruniversity.in"
+          },
+          {
+            "ID": "A-18",
+            "PaperID": "1571093843",
+            "Title": "Optimizing the Threshold Modified Comparator Circuit (TMCC) With NCFET Technology for Low Power and High-Speed Performance",
+            "Authors": "Venu Siripurapu; Sailada Srivallika; Sarvisetti Soma Surya; Thota Durga Prasad; Vasudeva Bevara",
+            "Email": "21341a04i7@gmrit.edu.in"
+          },
+          {
+            "ID": "A-19",
+            "PaperID": "1571087450",
+            "Title": "Performance Analysis of Single, Double and Triple Rings as Absorber",
+            "Authors": "Binshati Chatterjee",
+            "Email": "bichatterjee@kkwagh.edu.in"
+          },
+          {
+            "ID": "A-20",
+            "PaperID": "1571087146",
+            "Title": "Power Consumption-Aware Asymmetrical Traffic Splitting in SEON Based on Traffic Demands",
+            "Authors": "Amit Khanjan Sarma; Sanjib K. Deka; Nityananda Sarma",
+            "Email": "amitkhanjansarma@gmail.com"
+          },
+          {
+            "ID": "A-21",
+            "PaperID": "1571096920",
+            "Title": "Spatial Monitoring Using Transmit-Only Static Wireless Sensors Under Uncertainties: a Search-Based Detection Approach",
+            "Authors": "Hadi Alasti",
+            "Email": "alasti.hadi@gmail.com"
+          },
+          {
+            "ID": "A-22",
+            "PaperID": "1571095308",
+            "Title": "Transfer Learning for Efficient Node Placement in Dynamic Wireless Sensor Networks",
+            "Authors": "Rahul Priyadarshi; Shiva Singh Bagri; Rakesh Ranjan; Sundaram Sundaram",
+            "Email": "rahul.glorious91@gmail.com"
+          }
+        ]
+      },
+      {
+        "name": "Track-B: Machine Learning, Deep Learning and Applications",
+        "Papers": [
+          {
+            "PaperID": "1571086648",
+            "ID": "B-01",
+            "Title": "A Comprehensive Evaluation for Coronary Heart Disease Prediction Using Deep Learning Models",
+            "Authors": ["Jyothi Prakash", "Sukanya Singh", "Balamurugan G"],
+            "Email": "jyothiprakashstudy@gmail.com"
+          },
+          {
+            "PaperID": "1571093856",
+            "ID": "B-02",
+            "Title": "A Deep Learning Aided Smart Waste Classification System for Smart Cities",
+            "Authors": ["Gomathi K", "Lakshmi Kanthan Narayanan"],
+            "Email": "mathikrishnan55@gmail.com"
+          },
+          {
+            "PaperID": "1571098423",
+            "ID": "B-03",
+            "Title": "A Novel Deep Learning Model for Security Enhancement in Cloud Systems",
+            "Authors": ["Girish Dashmukhe"],
+            "Email": "dashmukhe@gmail.com"
+          },
+          {
+            "PaperID": "1571089206",
+            "ID": "B-04",
+            "Title": "A Survey on Detection of Parkinson's Disease Through Clinical Data Using Deep Learning Approach",
+            "Authors": ["Abdulaziz Aliero Salihu", "Neha Malhotra"],
+            "Email": "arewateh@gmail.com"
+          },
+          {
+            "PaperID": "1571085048",
+            "ID": "B-05",
+            "Title": "Abusive Content Detection Using Deep Learning: A BERT-Based Approach",
+            "Authors": [
+              "Ria Pahujani",
+              "Sakshi Bhuyan",
+              "Satvick Rai",
+              "Rohit Kumar Kaliyar"
+            ],
+            "Email": "er.rohitk06@gmail.com"
+          },
+          {
+            "PaperID": "1571087322",
+            "ID": "B-06",
+            "Title": "Addressing Market Volatility and Economic Factors in Long-Term Stock Price Prediction With Deep Learning",
+            "Authors": [
+              "Tanmaykumar Paradava",
+              "Rituraj Jain",
+              "Tirthkumar Patel",
+              "Damodharan Palaniappan"
+            ],
+            "Email": "tanmaykumar.paradava115111@marwadiuniversity.ac.in"
+          },
+          {
+            "PaperID": "1571087604",
+            "ID": "B-07",
+            "Title": "An Ensemble Approach to Raga Classification Using Deep and Traditional Machine Learning",
+            "Authors": ["Srikar Bellur", "Alicia Hong", "Jeng-Shiuan Ma"],
+            "Email": "sbellur@harrisburgu.edu"
+          },
+          {
+            "PaperID": "1571095968",
+            "ID": "B-08",
+            "Title": "An Experimental Analysis of Multiple Disease Prediction Using Machine Learning Algorithms",
+            "Authors": ["Deepjyoti Choudhury", "Shaurya Gupta", "Karan Pal"],
+            "Email": "deepjyotichoudhury05@gmail.com"
+          },
+          {
+            "PaperID": "1571087340",
+            "ID": "B-09",
+            "Title": "Analysis of Deep Learning Models for Disease Diagnosis in Laryngoscopic NBI Images",
+            "Authors": [
+              "Pratham Tejas Shah",
+              "Kanika Prasad Chitnis",
+              "Alfin Ashpak Patel",
+              "Arjun Brajesh Pareek",
+              "Narendra Shekokar"
+            ],
+            "Email": "pratham0925@gmail.com"
+          },
+          {
+            "PaperID": "1571093150",
+            "ID": "B-10",
+            "Title": "Analysis of Seismic Activity Using Deep Learning",
+            "Authors": ["Srinivas Babu N"],
+            "Email": "srinivasbn.nhce@newhorizonindia.edu"
+          },
+          {
+            "PaperID": "1571084443",
+            "ID": "B-11",
+            "Title": "Analysis of Wheat Plant Disease Detection Using Deep Learning Techniques on Real-Time UAV Images",
+            "Authors": [
+              "Manaswini Surusomayajula",
+              "Sateesh Krishna Dhuli",
+              "Vineela Chandra Dodda",
+              "Sai Varun Nimmagadda",
+              "Chiranjeevi Mondikathi",
+              "Tej Mahanth Jammula"
+            ],
+            "Email": "manaswini_s@srmap.edu.in"
+          },
+          {
+            "PaperID": "1571086379",
+            "ID": "B-12",
+            "Title": "Analyzing and Recognizing Human Activity Patterns Through Machine Learning Techniques",
+            "Authors": [
+              "Nitin Dixit",
+              "Rakhi Arora",
+              "Shrestha Kinger",
+              "Sneha Shivhare",
+              "Muskan Sihare",
+              "Jigyasa Mishra"
+            ],
+            "Email": "nitty222@gmail.com"
+          },
+          {
+            "PaperID": "1571093290",
+            "ID": "B-13",
+            "Title": "Application of Deep Learning to Generate Auto Player Mode in Car Based Game",
+            "Authors": [
+              "Kunjesh Patadiya",
+              "Rituraj Jain",
+              "Jay Moteriya",
+              "Damodharan Palaniappan",
+              "Kumar J Parmar",
+              "Premavathi T"
+            ],
+            "Email": "kunjesh.patadiya119837@marwadiuniversity.ac.in"
+          },
+          {
+            "PaperID": "1571101781",
+            "ID": "B-14",
+            "Title": "Machine Learning Model to Evaluate the Influence of Environmental, Geographic, and Sociodemographic Variables on the Prediction of Socio-Environmental Conflicts in the Mining Sector of Peru",
+            "Authors": [
+              "Arnaldo Lenin Olivares Santos",
+              "Cayo Victor León Fernández",
+              "Ciro Rodriguez"
+            ],
+            "Email": "arnaldo.olivares@unmsm.edu.pe"
+          },
+          {
+            "PaperID": "1571080603",
+            "ID": "B-15",
+            "Title": "Audio-Based Symptom Classification Using Deep Learning: The V-Cold Approach",
+            "Authors": ["Joydeep Chandra", "Ranjan Walia"],
+            "Email": "s1091262@mail.yzu.edu.tw"
+          },
+          {
+            "PaperID": "1571087367",
+            "ID": "B-16",
+            "Title": "Cross-Modal Hash Retrieval Based on Deep Learning",
+            "Authors": ["Fanqi Meng", "Kaidi Tian", "Dong Wang", "Yan Tian"],
+            "Email": "mengfanqi@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571095318",
+            "ID": "B-17",
+            "Title": "Deep Learning Approaches for Brain Tumour Detection Using VGG-16 Architecture",
+            "Authors": [
+              "Lubhawani Tripathi",
+              "D Kalidoss",
+              "Geetanjali Sharma",
+              "Pushkar Dubey"
+            ],
+            "Email": "Lubhawani.tripathi@kalingauniversity.ac.in"
+          },
+          {
+            "PaperID": "1571095371",
+            "ID": "B-18",
+            "Title": "Deep Learning Approaches for Forecasting Water Demand in IoT-Based Water Systems",
+            "Authors": ["Lakshmi Kanthan Narayanan", "Jeni Gracia RC"],
+            "Email": "lakshmikanth.vlsi@gmail.com"
+          },
+          {
+            "PaperID": "1571095074",
+            "ID": "B-19",
+            "Title": "Deep Learning Road Lane Detection: Most Effective Way in Autonomous Systems",
+            "Authors": ["Sivannarayana Annam", "Girish Segu", "Ramesh S"],
+            "Email": "annamsivanarayana@gmail.com"
+          },
+          {
+            "PaperID": "1571095340",
+            "ID": "B-20",
+            "Title": "Deep Learning-Enhanced Adaptive Node Placement in Wireless Sensor Networks",
+            "Authors": [
+              "Rahul Priyadarshi",
+              "Anant Vikram Singh",
+              "Anish Kumar Vishwakarma",
+              "Rakesh Ranjan"
+            ],
+            "Email": "rahul.glorious91@gmail.com"
+          },
+          {
+            "PaperID": "1571056740",
+            "ID": "B-21",
+            "Title": "Detecting Pneumonia With Chest X-Ray Using Transfer Learning With Resnet50",
+            "Authors": ["Kailash Rana", "Sidhhartha Chauhan"],
+            "Email": "195525@nith.ac.in"
+          },
+          {
+            "PaperID": "1571074566",
+            "ID": "B-22",
+            "Title": "Detecting Questions in Online Communities: A Machine Learning Approach",
+            "Authors": [
+              "Dilnaz Omarova",
+              "Fares A. Dael",
+              "Ibraheem Shayea",
+              "Gulnara Abitova",
+              "Eldos Sailaukhanov"
+            ],
+            "Email": "231950@astanait.edu.kz"
+          },
+          {
+            "PaperID": "1571088901",
+            "ID": "B-23",
+            "Title": "Developing a Memetic Algorithm for Personalized Learning in Intelligent E-Learning Systems",
+            "Authors": [
+              "Ramesh Jvn",
+              "Charu Bisaria",
+              "Shamim Ahmad Khan",
+              "Dr.V.Kanpur Rani",
+              "P Anbarasan",
+              "I Infant Raj"
+            ],
+            "Email": "jvnramesh@gmail.com"
+          },
+          {
+            "PaperID": "1571089160",
+            "ID": "B-24",
+            "Title": "Effective Prediction of Genus and Species Using a Novel Deep Learning Technique",
+            "Authors": ["Yana Gaur", "Abhay Chaudhary", "Rohit Kumar Kaliyar"],
+            "Email": "er.rohitk06@gmail.com"
+          },
+          {
+            "PaperID": "1571077354",
+            "ID": "B-25",
+            "Title": "Emotion Detection Using Hybrid Deep Sequential Learning Architecture From EEG Signals",
+            "Authors": [
+              "Albania Suting",
+              "Darina Thangkhiew",
+              "Ansuman Kumar",
+              "Anindya Halder"
+            ],
+            "Email": "albania.suting@gmail.com"
+          },
+          {
+            "PaperID": "1571095049",
+            "ID": "B-26",
+            "Title": "Explainable Depression Detection in Social Media Using Transformer-Based Models: a Comparative Analysis of Machine Learning",
+            "Authors": [
+              "Laxman Bankupalle",
+              "Sanat Shantanu Kulkarni",
+              "Beecha Venkata Naga Hareesh",
+              "Murali Krishna Enduri"
+            ],
+            "Email": "sailaxman_b@srmap.edu.in"
+          },
+          {
+            "PaperID": "1571098973",
+            "ID": "B-27",
+            "Title": "From Pixels to People: Deep Learning Breakthroughs in Human Detection",
+            "Authors": [
+              "Adeeba Bakhtiyar",
+              "Mohd Aquib Ansari",
+              "Arvind Mewada",
+              "Dushyant Kumar Singh"
+            ],
+            "Email": "bakhtiyaradeeba14@gmail.com"
+          },
+          {
+            "PaperID": "Rekha_iiiit",
+            "ID": "B-28",
+            "Title": "Identification of Corn Leaf Disease Using Deep Learning",
+            "Authors": [
+              "Rekha Kaushik",
+              "Suryansh Yagnik",
+              "Aman Verma",
+              "Nitin Yadav"
+            ],
+            "Email": "yagniksuryansh@gmail.com"
+          },
+          {
+            "PaperID": "1571092780",
+            "ID": "B-29",
+            "Title": "Identification of Corn Leaf Disease Using Deep Learning",
+            "Authors": [
+              "Rekha Kaushik",
+              "Suryansh Yagnik",
+              "Aman Verma",
+              "Nitin Yadav"
+            ],
+            "Email": "yagniksuryansh@gmail.com"
+          },
+          {
+            "PaperID": "1571085447",
+            "ID": "B-30",
+            "Title": "Improving Diabetes Classification Accuracy by Incorporating External Factors in a Machine Learning Framework",
+            "Authors": [
+              "Vijay Anant Athavale",
+              "Louis Lobo",
+              "Navnath Mane",
+              "Samprit Patel"
+            ],
+            "Email": "vijay.athavale@gmail.com"
+          },
+          {
+            "PaperID": "1571087205",
+            "ID": "B-31",
+            "Title": "Improving Weather Forecast Accuracy Using Hybrid Machine Learning Algorithms",
+            "Authors": [
+              "NagaCharitavya Madala",
+              "Sai Durga Sardhi Pranu Deepak Tallapudi",
+              "Venkata Srikari Malladi",
+              "Durga Mahesh Muthinti",
+              "Srilatha Tokala",
+              "Murali Krishna Enduri"
+            ],
+            "Email": "nagacharitavya_m@srmap.edu.in"
+          },
+          {
+            "PaperID": "1571087407",
+            "ID": "B-32",
+            "Title": "Intelligent Network Traffic Control With AI and Machine Learning",
+            "Authors": [
+              "Sweekrithi Shetty",
+              "Thrisha M S",
+              "Vandhana H M",
+              "Rizawan N Shaikh"
+            ],
+            "Email": "sweekrithishetty1@gmail.com"
+          },
+          {
+            "PaperID": "1571101772",
+            "ID": "B-33",
+            "Title": "Predictive Attributes in Machine Learning for University Academic Performance: a Feature Engineering Approach",
+            "Authors": ["Juan Carlos Jo Luza", "Ciro Rodriguez"],
+            "Email": "jjol@unmsm.edu.pe"
+          },
+          {
+            "PaperID": "1571074570",
+            "ID": "B-34",
+            "Title": "Machine Learning Algorithms For Predicting Chronic Diseases",
+            "Authors": [
+              "Furkan Bulus",
+              "Bilal Saoud",
+              "Ibraheem Shayea",
+              "Zuleikha Syzdykova"
+            ],
+            "Email": "bulus20@itu.edu.tr"
+          },
+          {
+            "PaperID": "1571097752",
+            "ID": "B-35",
+            "Title": "Machine Learning Approaches for Predictive Maintenance in Industrial Operations",
+            "Authors": ["Najim Alshahrani", "Shahrani Najim"],
+            "Email": "ieee.najim@gmail.com"
+          },
+          {
+            "PaperID": "1571077879",
+            "ID": "B-36",
+            "Title": "Machine Learning Approaches to Forecasting Car Prices in the Secondary Market",
+            "Authors": [
+              "Fares A. Dael",
+              "Daulet Talipov",
+              "Ibraheem Shayea",
+              "Asmaganbetova Kamshat"
+            ],
+            "Email": "fares.dael@bakircay.edu.tr"
+          },
+          {
+            "PaperID": "1571085020",
+            "ID": "B-37",
+            "Title": "Machine Learning for Autonomous Navigation and Collision Avoidance in UAVs",
+            "Authors": [
+              "Bisni Fahad Mon",
+              "Mohammad Hayajneh",
+              "Najah A. Abu Ali",
+              "Farman Ullah",
+              "Abdulmalik Alwarafy",
+              "Nasir Saeed"
+            ],
+            "Email": "bisni.f@uaeu.ac.ae"
+          },
+          {
+            "PaperID": "1571081211",
+            "ID": "B-38",
+            "Title": "Machine Learning for Signal Processing in 5G and Beyond: Review",
+            "Authors": [
+              "Mustafa Efe Kurt",
+              "Bilal Saoud",
+              "Ibraheem Shayea",
+              "Rzayeva Leila"
+            ],
+            "Email": "l.rzayeva@astanait.edu.kz"
+          },
+          {
+            "PaperID": "1571087595",
+            "ID": "B-39",
+            "Title": "Machine Learning-Based Intrusion Detection for Denial-Of-Service De-Authentication Attacks on Drones",
+            "Authors": [
+              "Laila Hatem Abuljadayel",
+              "Suleiman Yerima",
+              "Usman Butt"
+            ],
+            "Email": "22002333@student.buid.ac.ae"
+          },
+          {
+            "PaperID": "1571094922",
+            "ID": "B-40",
+            "Title": "Machine Learning-Driven Economic Modeling for Enhanced Unemployment Rate Prediction and Analysis",
+            "Authors": [
+              "Rakhi Arora",
+              "Nitin Dixit",
+              "Muskan Sihare",
+              "Shrestha Kinger",
+              "Sneha Shivhare",
+              "Komal Kulshreshtha"
+            ],
+            "Email": "arora.rakhi18@gmail.com"
+          },
+          {
+            "PaperID": "1571071431",
+            "ID": "B-41",
+            "Title": "Machine Learning-Powered Malicious Website Detection System",
+            "Authors": [
+              "Kiran More",
+              "Manasi Rajesh Mhatre",
+              "Satyam Mhetre",
+              "Owee Ashish Mirajkar",
+              "Vivek Methade",
+              "Chinmay Metha"
+            ],
+            "Email": "kiran.more@vit.edu"
+          },
+          {
+            "PaperID": "1571095158",
+            "ID": "B-42",
+            "Title": "Mitigating Ransomware in Cyber-Physical Human Systems Through Game-Based Learning",
+            "Authors": ["Usman Butt", "Mansour Alraja", "Abdulrahman Salih"],
+            "Email": "usman.butt@buid.ac.ae"
+          },
+          {
+            "PaperID": "1571092827",
+            "ID": "B-43",
+            "Title": "Optimizing DDoS Detection in SDNs Through Machine Learning Models",
+            "Authors": [
+              "Md. Ehsanul Haque",
+              "Jeba Maliha",
+              "Md. Shafiqul Alam",
+              "Ahsan Habib Siam",
+              "Sayed Md Fazle Rabbi",
+              "Md. Muntasir Rahman"
+            ],
+            "Email": "2021-3-60-018@std.ewubd.edu"
+          },
+          {
+            "PaperID": "1571093594",
+            "ID": "B-44",
+            "Title": "Outlier Detection in Wireless Sensor Networks based on Machine Learning: Review",
+            "Authors": [
+              "Burak Baykal",
+              "Bilal Saoud",
+              "Ibraheem Shayea",
+              "Rzayeva Leila"
+            ],
+            "Email": "l.rzayeva@astanait.edu.kz"
+          },
+          {
+            "PaperID": "1571089058",
+            "ID": "B-45",
+            "Title": "Personalized Diabetes Suggestion Using ML Algorithms and Cloud Technology",
+            "Authors": [
+              "Vura Venkata Naga Sai Bhargav Rohith",
+              "Sathwik Kumar Rudroju",
+              "Kamisetty Satya Chetan"
+            ],
+            "Email": "vv0114@srmist.edu.in"
+          },
+          {
+            "PaperID": "1571093597",
+            "ID": "B-46",
+            "Title": "Real-Time Crop Growth Tracking and Disease Detection Using Machine Learning",
+            "Authors": [
+              "A Rajendra Babu",
+              "Mohebba Naaz",
+              "T Lalitha",
+              "B Anjali",
+              "U Chaithya Sree"
+            ],
+            "Email": "arajendrababuavula@gmail.com"
+          },
+          {
+            "PaperID": "1571087361",
+            "ID": "B-47",
+            "Title": "Recent Trends in Brain Tumor Prediction Using Machine Learning and Deep Learning",
+            "Authors": ["Gulshan Hariyani", "Shamla T. Mantri"],
+            "Email": "gulshan.hariyani@mitwpu.edu.in"
+          },
+          {
+            "PaperID": "1571095189",
+            "ID": "B-48",
+            "Title": "Review Rating Predictions Using Improved Deep Learning Architecture",
+            "Authors": [
+              "Kumar Deep Barman",
+              "Bhaskar Bordoloi",
+              "Ansuman Kumar",
+              "Anindya Halder"
+            ],
+            "Email": "kumardeep.cse@gmail.com"
+          },
+          {
+            "PaperID": "1571094607",
+            "ID": "B-49",
+            "Title": "SD-TS-RF (Sales Data-Time Series-Random Forest) Hybrid Machine Learning Model for Enhanced Next-Day Sales Prediction in Supermarkets",
+            "Authors": ["Balaji S", "Manikavelan D"],
+            "Email": "balajis9024.sse@saveetha.com"
+          },
+          {
+            "PaperID": "1571088415",
+            "ID": "B-50",
+            "Title": "Smart Retail: Utilizing Machine Learning for Demand Prediction, Price Strategy, and Inventory Management",
+            "Authors": ["Amrita Kaul", "Krish Singhal", "Vaibhav Singh"],
+            "Email": "20402011@mail.jiit.ac.in"
+          },
+          {
+            "PaperID": "1571097693",
+            "ID": "B-51",
+            "Title": "Steroid and Non-Steroid Bodybuilder Classification Using Deep-Learning",
+            "Authors": [
+              "Safa Ahmed",
+              "Md. Tahmid Obayed",
+              "Mohammad Monirujjaman Khan"
+            ],
+            "Email": "safa.ahmed@northsouth.edu"
+          },
+          {
+            "PaperID": "1571092944",
+            "ID": "B-52",
+            "Title": "Synergizing Deep Learning and Internet of Things (IoT) for Smart Waste Management (SWM)",
+            "Authors": ["Haneen Algethami"],
+            "Email": "hmgethami@tu.edu.sa"
+          },
+          {
+            "PaperID": "1571095134",
+            "ID": "B-53",
+            "Title": "Weighted Deep Learning Implementation for Cognitive Radio Attack Detection",
+            "Authors": ["Anagha Ramakrishna"],
+            "Email": "anaghabr.ldc22@rvce.edu.in"
+          }
+        ]
+      },
+      {
+        "name": "Track-C: Cryptography, Blockchain Technology and Network Security",
+        "Papers": [
+          {
+            "PaperID": "1571077222",
+            "ID": "C-01",
+            "Title": "A Secure and Transparent Voting System Framework Using Finger Vein and Blockchain Technology",
+            "Authors": ["Chittapuli Bhupathi Padal", "Valli Kumari Vatsavayi"],
+            "Email": "322206415004@andhrauniversity.edu.in"
+          },
+          {
+            "PaperID": "1571087502",
+            "ID": "C-02",
+            "Title": "A Survey on Enhancing Cloud Data Security Using Blockchain Technology",
+            "Authors": ["Neethi Narayanan", "Maria Celestin Vigila S"],
+            "Email": "neethi@lbsitw.ac.in"
+          },
+          {
+            "PaperID": "1571087333",
+            "ID": "C-03",
+            "Title": "A Transformer Embedding Based Model for Malicious DGA-Generated Domain Detection",
+            "Authors": ["Suleiman Yerima", "Vinod P", "Khaled F. Shaalan"],
+            "Email": "suleiman.yerima@buid.ac.ae"
+          },
+          {
+            "PaperID": "1571095210",
+            "ID": "C-04",
+            "Title": "Adaptive Steganography Approach in RGB Images Based on Color Channels to Enhance Stego Image Quality",
+            "Authors": [
+              "Rihan Farih Farih Bunyamin",
+              "Adifa D'Layla",
+              "Ntivuguruzwa Jean De La Croix",
+              "Tohari Ahmad"
+            ],
+            "Email": "6025241060@student.its.ac.id"
+          },
+          {
+            "PaperID": "1571095994",
+            "ID": "C-05",
+            "Title": "Application of Secure and Energy-Efficient Data Access Solutions in Industrial IoT for Small-Scale Industry",
+            "Authors": ["Lopamudra Samal"],
+            "Email": "lopamudrasamals@gmail.com"
+          },
+          {
+            "PaperID": "1571087373",
+            "ID": "C-06",
+            "Title": "APT Attack Detection Method Based on Long-Term Feature Extraction From Provenance Graphs",
+            "Authors": ["Jiacheng Li"],
+            "Email": "2202201023@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571086765",
+            "ID": "C-07",
+            "Title": "Artificial Intelligence Powered Fraud Detection and Prevention: Analysis of Application of Machine Learning in Online Transactions in Banking",
+            "Authors": [
+              "Omer Farook Mohideen Abdul Kader",
+              "Roop Kumar Yekollu",
+              "Sammip Biradar",
+              "Shivkumar V Haldikar",
+              "Tejal Ghuge"
+            ],
+            "Email": "omer.farook@suzy.com"
+          },
+          {
+            "PaperID": "1571032487",
+            "ID": "C-08",
+            "Title": "Blockchain-Based Secure e-KYC Solution for Banking System",
+            "Authors": [
+              "Zoya Tabassum",
+              "Sobiya Arsheen",
+              "Khaleel Ahmad",
+              "Gülcihan Özdemir"
+            ],
+            "Email": "zoyatabassum06@gmail.com"
+          },
+          {
+            "PaperID": "1571093701",
+            "ID": "C-09",
+            "Title": "Cloud Storage and Secured File Sharing Using Blockchain With Xchacha20 and Shake Cryptography",
+            "Authors": ["J Jayachita", "H Arshad", "R MuthuKumaran"],
+            "Email": "jayachitraifetit@gmail.com"
+          },
+          {
+            "PaperID": "1571094220",
+            "ID": "C-10",
+            "Title": "Cryptographic Pixel Manipulation for Visual Security",
+            "Authors": [
+              "Uday Krishna Banala",
+              "Rushendra Sai Chidipothu",
+              "Murali Krishna Enduri",
+              "Gangi Reddy"
+            ],
+            "Email": "udaykrishna_banala@srmap.edu.in"
+          },
+          {
+            "PaperID": "1571077211",
+            "ID": "C-11",
+            "Title": "Deep Fake Video Detection Using Inception_Resnet_v2: A Convolutional Neural Network Approach",
+            "Authors": ["Mandala Praveen Kumar", "Valli Kumari Vatsavayi"],
+            "Email": "322206415006@andhrauniversity.edu.in"
+          },
+          {
+            "PaperID": "1571101798",
+            "ID": "C-12",
+            "Title": "Design of Lightweight Decentralized Secure Communication",
+            "Authors": ["Aditya Silwal", "Bishwajeet Pandey"],
+            "Email": "adityaasilwal@gmail.com"
+          },
+          {
+            "PaperID": "1571093465",
+            "ID": "C-13",
+            "Title": "Detection and Identification of Fake Image Using Conditional Generative Adversarial Networks (CGANs)",
+            "Authors": [
+              "Mohebba Naaz",
+              "Mamani Jyothirmai",
+              "K Mounika",
+              "E Sravani",
+              "B Mounika"
+            ],
+            "Email": "mohebbanaaz@gmail.com"
+          },
+          {
+            "PaperID": "1571087405",
+            "ID": "C-14",
+            "Title": "Detection of Deep Fake Medical Images Based on Spatial and Frequency Domain Analysis",
+            "Authors": ["Pradeepan P", "Gladston Raj S"],
+            "Email": "pradeepanp@cdit.org"
+          },
+          {
+            "PaperID": "1571083848",
+            "ID": "C-15",
+            "Title": "Enhancing Outpatient Medical Care Services Through SDN Cloud-Based Appointment Scheduling and Secure Data Management",
+            "Authors": ["Benitha Christinal J", "Ameelia Roseline A"],
+            "Email": "jbenitha@panimalar.ac.in"
+          },
+          {
+            "PaperID": "1571087267",
+            "ID": "C-16",
+            "Title": "Enhancing Support Vector Machines Against Poisoning Attacks: A Study on Noise Augmentation for Robust Modulation Detection",
+            "Authors": [
+              "Dhatri Shankari T M",
+              "M R Shreyaank",
+              "Diti B Jain",
+              "Aditya R G",
+              "Rashmi Ugarakhod"
+            ],
+            "Email": "dhatristm2003@gmail.com"
+          },
+          {
+            "PaperID": "1571086514",
+            "ID": "C-17",
+            "Title": "Fortifying IoT Networks: A Blockchain-Based Communication Security Paradigm",
+            "Authors": [
+              "Vinith Vijay Shetty",
+              "Samay Deepak Shetty",
+              "Shivakumar V",
+              "Prakhyat Prakash Shetty",
+              "Kiran B V"
+            ],
+            "Email": "vinithshetty9372@gmail.com"
+          },
+          {
+            "PaperID": "1571095204",
+            "ID": "C-18",
+            "Title": "IntellBot: Retrieval Augmented LLM Chatbot for Cyber Threat Knowledge Delivery",
+            "Authors": [
+              "Dincy R Arikkat",
+              "Abhinav M",
+              "Navya Binu",
+              "Parvathi M",
+              "Navya Biju",
+              "K S Arunima",
+              "Vinod Puthuvath",
+              "Rafidha Rehiman K A",
+              "Mauro Conti"
+            ],
+            "Email": "dincyrarikkat@cusat.ac.in"
+          },
+          {
+            "PaperID": "1571092816",
+            "ID": "C-19",
+            "Title": "Leveraging Blockchain Technology for Secure and Efficient Storage of Medical Data",
+            "Authors": ["Aryan Rai", "Mahek Naik", "Ida Seraphim B"],
+            "Email": "ab2397@srmist.edu.in"
+          },
+          {
+            "PaperID": "1571087327",
+            "ID": "C-20",
+            "Title": "Location-Based CAPTCHA: Enhancing Bot Detection Using Live Geolocation Autofill",
+            "Authors": ["Anurag Pathak", "Sandeep Rathor"],
+            "Email": "sandeep.rathor@gla.ac.in"
+          },
+          {
+            "PaperID": "1571080564",
+            "ID": "C-21",
+            "Title": "Machine Learning in Cybersecurity: Opportunities and Challenges",
+            "Authors": [
+              "Mahfooz Alam",
+              "Deepak Singh",
+              "Bishwajeet Pandey",
+              "Mohammad Shahid",
+              "Faisal Ahmad",
+              "Shabeer Ahmad"
+            ],
+            "Email": "mahfoozalam.amu@gmail.com"
+          },
+          {
+            "PaperID": "1571086451",
+            "ID": "C-22",
+            "Title": "Malicious Traffic Classification Model Based on Hypergraph-LSTM Neural Network",
+            "Authors": ["He Xin Lei"],
+            "Email": "2202301012@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571087755",
+            "ID": "C-23",
+            "Title": "Malicious URL Detection and Categorization Using Machine Learning Techniques",
+            "Authors": [
+              "Emaan Nazeeruddin",
+              "Ghazanfar Latif",
+              "Nazeeruddin Mohammad"
+            ],
+            "Email": "amaan.nazeeruddin@gmail.com"
+          },
+          {
+            "PaperID": "1571089959",
+            "ID": "C-24",
+            "Title": "Matrix Rotation Cipher With Graph-Based Key Generation for Secure Message Encryption",
+            "Authors": [
+              "Patnala Bharathi Devi",
+              "P. Rama Bhadra Murthy",
+              "Ravindra Ponugumati"
+            ],
+            "Email": "bharathipatnala@gmail.com"
+          },
+          {
+            "PaperID": "1571095304",
+            "ID": "C-25",
+            "Title": "Performance Analysis of Classifiers in the Detection of Injection Attacks by the Association of Graph-Based Method and Generic Detection Attributes",
+            "Authors": [
+              "Merlin Linda G",
+              "Sudheer Reddy Bandi",
+              "Prabhakar Gantela",
+              "Nagarjuna Chary S",
+              "Spurthy K",
+              "Nagamani Samineni"
+            ],
+            "Email": "merlin.linda@gmail.com"
+          },
+          {
+            "PaperID": "1571094972",
+            "ID": "C-26",
+            "Title": "Scalable IoT Security Framework Leveraging Ensemble Learning for Attestation",
+            "Authors": [
+              "Chittaranjan Hota",
+              "Mini TT",
+              "Santrupti Behera",
+              "Meka Srikar Reddy"
+            ],
+            "Email": "hota@hyderabad.bits-pilani.ac.in"
+          }
+        ]
+      },
+      {
+        "name": "Track-D: Power Systems, Renewal Energy and control Systems",
+        "Papers": [
+          {
+            "PaperID": "1571083883",
+            "ID": "D-01",
+            "Title": "A Synergistic Approach Using FCN and Gradient Descent Optimization for RUL Prediction of Lithium Ion Batteries",
+            "Authors": [
+              "Keren Persis P",
+              "Vijayakumar B P",
+              "G Ashwin Prabhu",
+              "Jagadeesh Bommisetty",
+              "Sangameswaran U",
+              "P. Tharaniya"
+            ],
+            "Email": "kerenpersisp.sse@saveetha.com"
+          },
+          {
+            "PaperID": "1571083914",
+            "ID": "D-02",
+            "Title": "DASH: An Open Access Low-Cost Quadruped Robot for Innovative Applications",
+            "Authors": [
+              "Lara Bander Alotaibi",
+              "Maria Alabdulrahman",
+              "Taha Houda"
+            ],
+            "Email": "lara13otaibi@gmail.com"
+          },
+          {
+            "PaperID": "1571087925",
+            "ID": "D-03",
+            "Title": "Future Trends in Fault Detection Strategies for DC Microgrid",
+            "Authors": [
+              "Sanatan Kumar",
+              "Abhay Chaturvedi",
+              "Abhimanyu Kumar",
+              "Chirag Gupta"
+            ],
+            "Email": "2015rsee001@nitjsr.ac.in"
+          },
+          {
+            "PaperID": "1571091068",
+            "ID": "D-04",
+            "Title": "IOT Based Intelligent Slot Allocation for EV Charging Station",
+            "Authors": ["Divya S", "Sivakumar P", "Kaavya Agith"],
+            "Email": "210901030@rajalakshmi.edu.in"
+          },
+          {
+            "PaperID": "1571087241",
+            "ID": "D-05",
+            "Title": "Optimizing BLDC Motor Control in Electric Vehicles Using Hysteresis Current Controlled Boost Converters",
+            "Authors": [
+              "Sanatan Kumar",
+              "Abhimanyu Kumar",
+              "Chirag Gupta",
+              "Abhay Chaturvedi"
+            ],
+            "Email": "2015rsee001@nitjsr.ac.in"
+          },
+          {
+            "PaperID": "1571082826",
+            "ID": "D-06",
+            "Title": "Real-Time Performance Assessment of Wind Turbine Model Under Ferroresonance Conditions",
+            "Authors": ["Sunil Kumar", "Ikbal Ali", "Anwar Shahzad Siddiqui"],
+            "Email": "skk7503@gmail.com"
+          },
+          {
+            "PaperID": "1571095296",
+            "ID": "D-07",
+            "Title": "Statistical Analysis and Electric Range Distributions in Battery EVs and Hybrid EVs",
+            "Authors": [
+              "Nagabushanam Perattur",
+              "Meenugu Venkateshwarlu",
+              "Jala Prakash Kumar",
+              "Vasanth K",
+              "S Siva Priyanka",
+              "Radha Subramanyam"
+            ],
+            "Email": "nagabushanamphd14@gmail.com"
+          }
+        ]
+      },
+      {
+        "name": "Track-E: Signal Processing, Image Processing and CNN",
+        "Papers": [
+          {
+            "PaperID": "1571096311",
+            "ID": "E-01",
+            "Title": "An Evaluation of Text-Guided Image Editing Models",
+            "Authors": [
+              "Phong Tien Nguyen",
+              "Chibuike Onuoha",
+              "Nam Pham Ngoc",
+              "Huong Thu Truong",
+              "Truong Cong Thang"
+            ],
+            "Email": "m5282020@u-aizu.ac.jp"
+          },
+          {
+            "PaperID": "1571086308",
+            "ID": "E-02",
+            "Title": "Analysis of Quality Evaluation Indicators for Visible Light and Infrared Image Fusion Based on Target Detection",
+            "Authors": ["Shuqiang Guo", "Fanning Duanmu", "Fanqi Meng"],
+            "Email": "2202200975@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571085157",
+            "ID": "E-03",
+            "Title": "Application of Particle Image Velocimetry Method Based on Full Convolution Neural Network in Turbulence Field",
+            "Authors": ["Xie Zhi Cheng", "Guo Shu Qiang"],
+            "Email": "2202301014@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571082834",
+            "ID": "E-04",
+            "Title": "ASIC Implementation of Pre-Trained CNN for Handwritten Digit Detection Using GPDK90nm Technology",
+            "Authors": [
+              "Bandi Raja Babu",
+              "Billakurthi Sai Sanjana",
+              "Syed Ali Hussain",
+              "Pradyut Kumar Sanki"
+            ],
+            "Email": "rajababubandi1797@gmail.com"
+          },
+          {
+            "PaperID": "1571083520",
+            "ID": "E-05",
+            "Title": "ASIC Implementation of Pre-Trained CNN for Image Classification Using GPDK90nm Technology",
+            "Authors": [
+              "Billakurthi Sai Sanjana",
+              "Bandi Raja Babu",
+              "Syed Ali Hussain",
+              "Pradyut Kumar Sanki"
+            ],
+            "Email": "sanjub1306@gmail.com"
+          },
+          {
+            "PaperID": "1571095220",
+            "ID": "E-06",
+            "Title": "AttCNNnet: Attention Based CNN Network to Detect Seizures From EEG Subjects",
+            "Authors": ["Mohebba Naaz", "N Geetha Rani", "Praveen Nayakanti"],
+            "Email": "mohebbanaaz@gmail.com"
+          },
+          {
+            "PaperID": "1571087461",
+            "ID": "E-07",
+            "Title": "Botnet Detection Using Network Traffic Visualization and Histogram of Oriented Gradients",
+            "Authors": ["Rajesh Thomas", "Suleiman Yerima", "Khaled F. Shaalan"],
+            "Email": "rthomas1@hct.ac.ae"
+          },
+          {
+            "PaperID": "1571095216",
+            "ID": "E-08",
+            "Title": "CNN and Edge Detection Based Novel Leaf Disease Identification From Bush With Irrespective of Plant Types and Drone Footage-Based Real-Time Application",
+            "Authors": [
+              "Rajat Subhra Dutta",
+              "Shreyank Mukherjee",
+              "Soumyadip Chowdhuri",
+              "Santanu Mandal",
+              "Parnab Das"
+            ],
+            "Email": "rajat.23msd7032@vitapstudent.ac.in"
+          },
+          {
+            "PaperID": "1571086634",
+            "ID": "E-09",
+            "Title": "Comparative Study of Video Summarization Using Keyframes With State-Of-The-Art Techniques",
+            "Authors": ["Manjusha J Yeola"],
+            "Email": "ssbarve@mitaoe.ac.in"
+          },
+          {
+            "PaperID": "1571085161",
+            "ID": "E-10",
+            "Title": "Cross-Modality Person Re-Identification: An Attention-Enhanced Framework for Deep Fusion of Visible and Infrared Features",
+            "Authors": ["Yue Wang"],
+            "Email": "2202301036@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571093146",
+            "ID": "E-11",
+            "Title": "Diff-FFT: Synthetic Lumbar Magnetic Images From Frequency Domain-Based",
+            "Authors": ["Jie Cao", "Qingxuan Jiang", "Boshuo Li"],
+            "Email": "caojie@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571095279",
+            "ID": "E-12",
+            "Title": "Efficient Coral Reef Mapping for Marine Ecosystem Conservation Using VGG16 Neural Network Model",
+            "Authors": ["Chettiyar Vani Vivekanand", "Varunesh B", "Vinoth N"],
+            "Email": "vani.anjali78@gmail.com"
+          },
+          {
+            "PaperID": "1571090532",
+            "ID": "E-13",
+            "Title": "Efficient Stock Management Using Computer Vision",
+            "Authors": [
+              "Anitha Julian",
+              "Anbuselvan A",
+              "Ashika Jubi R",
+              "Akash Kumar B"
+            ],
+            "Email": "cse.anithajulian@gmail.com"
+          },
+          {
+            "PaperID": "1571095395",
+            "ID": "E-14",
+            "Title": "Enhanced Object Detection Based on YOLOv9 for Marine Life",
+            "Authors": [
+              "Akshat Pawar",
+              "Ankush Handa",
+              "Madhav Pujari",
+              "Deva Hema"
+            ],
+            "Email": "ad2705@srmist.edu.in"
+          },
+          {
+            "PaperID": "1571087410",
+            "ID": "E-15",
+            "Title": "Exploring New Frontiers in Video Fingerprinting: A Comprehensive Review of Techniques",
+            "Authors": [
+              "Siddharth Humbe",
+              "Nikita Kapadnis",
+              "Ganesh Lokhande",
+              "Piyush Lavekar",
+              "Durgesh Choudhary"
+            ],
+            "Email": "h.siddharth70@gmail.com"
+          },
+          {
+            "PaperID": "1571088866",
+            "ID": "E-16",
+            "Title": "Face Recognition From Partial Face Data and Fraud Detection",
+            "Authors": ["Sonti Vivek Sai", "Thavisala Veneela"],
+            "Email": "22211a05t5@bvrit.ac.in"
+          },
+          {
+            "PaperID": "1571095284",
+            "ID": "E-17",
+            "Title": "Grain Size Analysis With Optimized Image Processing: a Contour-Based Approach",
+            "Authors": [
+              "Sashank Chowdary Kakarla",
+              "Ravindranath Chowdary Nayudu",
+              "Krishna Bogineni",
+              "Gangi Reddy"
+            ],
+            "Email": "sashankchowdary_k@srmap.edu.in"
+          },
+          {
+            "PaperID": "1571080888",
+            "ID": "E-18",
+            "Title": "GWABHO-Adam: Grey Wolf Algorithm Based Hyperparameter Optimization of Adam to Enhance Cancer Classification From Microscopic Images",
+            "Authors": [
+              "Abhrodeep Das",
+              "Animesh Hazra",
+              "Souhardya Dutta",
+              "Indrajit Das",
+              "Sukal Roy",
+              "Nibaran Das"
+            ],
+            "Email": "abhrodeepdas1508@gmail.com"
+          },
+          {
+            "PaperID": "1571072304",
+            "ID": "E-19",
+            "Title": "Identify the Intended Covert Value Among an Adversary in a (T, N) Threshold Setup",
+            "Authors": [
+              "Anindya Kumar Biswas",
+              "Tanisha Das",
+              "Nilava Rana",
+              "Mou Dasgupta"
+            ],
+            "Email": "anindya.kr.bws@gmail.com"
+          },
+          {
+            "PaperID": "1571036252",
+            "ID": "E-20",
+            "Title": "Image Denoising Using Modified Cumulative Distribution Function in the Wavelet Domain",
+            "Authors": ["Noorbakhsh Amiri Golilarz", "Keyan Rahimi"],
+            "Email": "amiri@cse.msstate.edu"
+          },
+          {
+            "PaperID": "1571065177",
+            "ID": "E-21",
+            "Title": "Implementation and Comparative Analysis of CNN and Discrete Haar Wavelet Transform in Image Steganography",
+            "Authors": ["Srusti R", "Shruthi Mlj"],
+            "Email": "pes1202100864@pesu.pes.edu"
+          },
+          {
+            "PaperID": "1571084074",
+            "ID": "E-22",
+            "Title": "Implementation of Collaborative Filtering in E-Commerce Recommender Systems: An Elementary Review",
+            "Authors": ["Mamta B Savadatti", "Santhosh Krishna"],
+            "Email": "mamta.savadatti@gmail.com"
+          },
+          {
+            "PaperID": "1571085421",
+            "ID": "E-23",
+            "Title": "Improved DCGAN Based on Coordinate Attention for Efficient Image Generation Under Small Sample Conditions",
+            "Authors": ["Shuai Cao"],
+            "Email": "2202301011@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571086391",
+            "ID": "E-24",
+            "Title": "Infrared Ship Detection Based on Improved YOLO-11",
+            "Authors": ["Yayuan Hu"],
+            "Email": "2202301013@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571085408",
+            "ID": "E-25",
+            "Title": "Iris Feature Extraction Method Based on Deep Hashing",
+            "Authors": ["Xiaolu Yu"],
+            "Email": "2202301041@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571095889",
+            "ID": "E-26",
+            "Title": "Leveraging Pre-Trained EfficientNet-B3 for Accurate Classification of Breast Cancer Images",
+            "Authors": ["Geomol George", "Anusuya S"],
+            "Email": "980024.sse@saveetha.com"
+          },
+          {
+            "PaperID": "1571096118",
+            "ID": "E-27",
+            "Title": "LLCNN Based Image Enhancement With Squeeze and Excitation Network for Improved Visual Quality",
+            "Authors": [
+              "Maheswari S",
+              "Thirumurugan Shanmugam",
+              "Arun Kumar Sivaraman",
+              "Nithiyanantham Janakiraman",
+              "Priya Ravindran",
+              "Babu Sivam"
+            ],
+            "Email": "maheswari.s@vit.ac.in"
+          },
+          {
+            "PaperID": "1571087183",
+            "ID": "E-28",
+            "Title": "Medical Image Classification of Brain Tumour: A Multi-Model Approach With Explainable Models",
+            "Authors": [
+              "Syed Ali Hussain",
+              "Turja Bhattacharjee",
+              "Pradyut Kumar Sanki",
+              "Pranab Mandol"
+            ],
+            "Email": "alihussain_syed@srmap.edu.in"
+          },
+          {
+            "PaperID": "1571095525",
+            "ID": "E-29",
+            "Title": "Opthalmic Diseases Detection Using CNN: a Comparative Analysis of ResNet and VGG Architectures",
+            "Authors": ["Mohammad Monirujjaman Khan"],
+            "Email": "monirujjaman.khan@northsouth.edu"
+          },
+          {
+            "PaperID": "1571097430",
+            "ID": "E-30",
+            "Title": "Optimal Enforcement of Liveness for FMSs Modelled With S4PR Petri Nets",
+            "Authors": ["Mowafak Hassan Abdul-Hussin"],
+            "Email": "mow.abdulg@gmail.com"
+          },
+          {
+            "PaperID": "1571071948",
+            "ID": "E-31",
+            "Title": "Optimized Adaptive Based Method for MR Image Denoising",
+            "Authors": [
+              "Noorbakhsh Amiri Golilarz",
+              "Iman Dehzangi",
+              "Keyan Rahimi"
+            ],
+            "Email": "amiri@cse.msstate.edu"
+          },
+          {
+            "PaperID": "1571089891",
+            "ID": "E-32",
+            "Title": "Optimized Residual Attention U-Net-Based Lung Cancer Detection",
+            "Authors": ["Jyoti Kumari", "Sapna Sinha", "Laxman Singh"],
+            "Email": "jyotikumarijyoti4321@gmail.com"
+          },
+          {
+            "PaperID": "1571093975",
+            "ID": "E-33",
+            "Title": "Polar Fox Optimization Algorithm-Based Triangulation Method for Optimal RSUs Placement in VANETs",
+            "Authors": ["Ezumalai R", "Santhakumar D"],
+            "Email": "ezumalair9075.sse@saveetha.com"
+          },
+          {
+            "PaperID": "1571087313",
+            "ID": "E-34",
+            "Title": "Possible Improvements of TCP Protocol With Use of Heuristic Methods for Networks With Heavy Packet Loss",
+            "Authors": ["Afan Ceco"],
+            "Email": "afan.ceco@etf.unsa.ba"
+          },
+          {
+            "PaperID": "1571086311",
+            "ID": "E-35",
+            "Title": "Research on Insulator Defect Detection Based on Improved YOLOv7",
+            "Authors": ["Linghao Meng", "Guo Shu Qiang"],
+            "Email": "2202200995@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571086460",
+            "ID": "E-36",
+            "Title": "Scene Text Detection in Medical Based on Differentiable Binarization",
+            "Authors": ["Nuan Wen"],
+            "Email": "2202301037@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571097406",
+            "ID": "E-37",
+            "Title": "Synthesis of Supervisor Design for FMSs Modeled With S4PR Petri Nets by Controllable Transitions",
+            "Authors": ["Mowafak Hassan Abdul-Hussin"],
+            "Email": "mow.abdulg@gmail.com"
+          },
+          {
+            "PaperID": "1571087441",
+            "ID": "E-38",
+            "Title": "UAV Images Based Maize Crop Analysis Using Custom CNN Model",
+            "Authors": [
+              "Thejaswini M",
+              "Gaurav Kumar",
+              "Sumit Kumar Aggarwal",
+              "Pravin Kumar Bagaria"
+            ],
+            "Email": "mthejaswini.cse@iiitbh.ac.in"
+          },
+          {
+            "PaperID": "1571084408",
+            "ID": "E-39",
+            "Title": "Ultrasound Image Analysis in Breast Cancer: A Comparative Study of Decision Trees and Random Forests",
+            "Authors": ["Sivagami S", "Sathya A", "Afsin S"],
+            "Email": "sivagamis.sse@saveetha.com"
+          },
+          {
+            "PaperID": "1571095046",
+            "ID": "E-40",
+            "Title": "Utilising Convolutional Neural Networks for Automated Object Detection in Aerial Images",
+            "Authors": [
+              "Ramesh S",
+              "Monika Pralayakaveri",
+              "Chinta Midhilesh Venkata Sai Reddy"
+            ],
+            "Email": "ramesh.isaiah@gmail.com"
+          }
+        ]
+      },
+      {
+        "name": "Track-F: Social Networks, Intelligent Systems and NLP",
+        "Papers": [
+          {
+            "PaperID": "1571097060",
+            "ID": "F-01",
+            "Title": "A Novel U-Net Based CNN Algorithm for High-Accuracy Weather Forecasting",
+            "Authors": [
+              "Thirumurugan Shanmugam",
+              "Chirag Chandrashekar",
+              "Arun Kumar Sivaraman",
+              "Nithiyanantham Janakiraman",
+              "Priya Ravindran",
+              "Sarvesh Narayanan ST"
+            ],
+            "Email": "thirumurugan.shanmugam@utas.edu.om"
+          },
+          {
+            "PaperID": "1571095711",
+            "ID": "F-02",
+            "Title": "Algorithms for Performance Prediction in Cricket - Factors Influencing the Player",
+            "Authors": [
+              "Nagabushanam Perattur",
+              "Thota Praneeth Sai",
+              "Vasanth K",
+              "S Rekha",
+              "Vivek Singh K Kushwah",
+              "Radha Subramanyam"
+            ],
+            "Email": "nagabushanamphd14@gmail.com"
+          },
+          {
+            "PaperID": "1571093991",
+            "ID": "F-03",
+            "Title": "Black-Winged Kite Algorithm-Based Energy Efficient Clustering Protocol for Internet of Things",
+            "Authors": ["Jamuna Rani S", "Santhakumar D"],
+            "Email": "jamunaranis9076.sse@saveetha.com"
+          },
+          {
+            "PaperID": "1571097005",
+            "ID": "F-04",
+            "Title": "Codify: a Programming Learning Tool Prototyping Using Design Thinking Method",
+            "Authors": [
+              "Safara Cathasa Riverinda Rijadi",
+              "Priya Mita Hartati Qhusna",
+              "Elvira Lailatuth Thohiroh",
+              "Vira Damayanti",
+              "Rafi Ahmad Khairan",
+              "Tien Fabrianti Kusumasari"
+            ],
+            "Email": "safaracathasa@telkomuniversity.ac.id"
+          },
+          {
+            "PaperID": "1571095340",
+            "ID": "F-05",
+            "Title": "Deep Learning-Enhanced Adaptive Node Placement in Wireless Sensor Networks",
+            "Authors": [
+              "Rahul Priyadarshi",
+              "Anant Vikram Singh",
+              "Anish Kumar Vishwakarma",
+              "Rakesh Ranjan"
+            ],
+            "Email": "rahul.glorious91@gmail.com"
+          },
+          {
+            "PaperID": "1571095232",
+            "ID": "F-06",
+            "Title": "Development and Integration of an AI-Driven Adapter & Grade Prediction Model for Mathematical Question Classification and Assessment Which Enhance Student Profiling",
+            "Authors": [
+              "Chamika P Nishamali",
+              "Jayakody Arachchilage Don Chaminda Anuradha Jayakody"
+            ],
+            "Email": "ms23018778@my.sliit.lk"
+          },
+          {
+            "PaperID": "1571069796",
+            "ID": "F-07",
+            "Title": "Embracing Industry 4.0: A Comprehensive Analysis",
+            "Authors": ["Dinesh Sharma", "Sanjay Kushwah"],
+            "Email": "sharma.dineshme@gmail.com"
+          },
+          {
+            "PaperID": "1571089907",
+            "ID": "F-08",
+            "Title": "Energy-Efficient Green Database Systems: Adaptive Resource Allocation in Cloud Platforms",
+            "Authors": ["Ankit Patra", "Ankur Kashyap", "Ida Seraphim B"],
+            "Email": "as2679@srmist.edu.in"
+          },
+          {
+            "PaperID": "1571083935",
+            "ID": "F-09",
+            "Title": "Enhanced Pipeline Safety: Cloud-Based Leak Prediction Using XGBoost",
+            "Authors": ["Jagadeesh V", "Sivakumar P"],
+            "Email": "230911003@rajalakshmi.edu.in"
+          },
+          {
+            "PaperID": "1571094473",
+            "ID": "F-10",
+            "Title": "Enhancing IoT Device Responsiveness With Dual Feedback Schmitt Trigger Optimization",
+            "Authors": [
+              "Mourya Anjali Ramsamuzh",
+              "Aryan Kannaujiya",
+              "Pankaj Lodhi",
+              "Amrinder Kaur"
+            ],
+            "Email": "anjalimourya587@gmail.com"
+          },
+          {
+            "PaperID": "1571063875",
+            "ID": "F-11",
+            "Title": "Fine-Tuning Transformer-Generated Language Model Embeddings to Improve Performance in Downstream Tasks",
+            "Authors": ["Diptee Vishwanath Chikmurge"],
+            "Email": "diptee.chikmurge@mitaoe.ac.in"
+          },
+          {
+            "PaperID": "1571093010",
+            "ID": "F-12",
+            "Title": "Geo-AQI: Location-Based Air Quality Monitoring With Real-Time and Predictive Insights",
+            "Authors": ["Bikash Sadhukhan", "Ricky Dey"],
+            "Email": "bikash.sadhukhan@tict.edu.in"
+          },
+          {
+            "PaperID": "1571093591",
+            "ID": "F-13",
+            "Title": "Graph Based Keywords Extraction From Crime Data",
+            "Authors": [
+              "Priyanka Das",
+              "Anuvab Munshi",
+              "Annwesha Naha",
+              "Adrija Dey",
+              "Sriparno Chakraborty"
+            ],
+            "Email": "priyankadas700@gmail.com"
+          },
+          {
+            "PaperID": "1571093992",
+            "ID": "F-14",
+            "Title": "Improved Tuna Optimization-Based Energy Efficient Clustering Protocol for Internet of Things",
+            "Authors": ["Jamuna Rani S", "Santhakumar D"],
+            "Email": "jamunaranis9076.sse@saveetha.com"
+          },
+          {
+            "PaperID": "1571094542",
+            "ID": "F-15",
+            "Title": "Innovative System for Early Detection and Intervention in Developmental Disorders: a MultiSensory, Child-Centric Approach",
+            "Authors": [
+              "Lohan Kavinda Bandara",
+              "Arunali Nawodya",
+              "Kaveesha Amandi",
+              "Kaveesha Vihangana",
+              "Dinithi Pandithage",
+              "Narmada Gamage"
+            ],
+            "Email": "lohankavinda4@gmail.com"
+          },
+          {
+            "PaperID": "1571094489",
+            "ID": "F-16",
+            "Title": "Opening the Black Box: Explainable AI Insights Into Obesity Prediction Using SMOTE-Balanced Stacking Ensembles",
+            "Authors": ["Raj Gaurang Tiwari", "Vrince Vimal", "Ambuj Agrawal"],
+            "Email": "rajgaurang@chitkara.edu.in"
+          },
+          {
+            "PaperID": "1571092926",
+            "ID": "F-17",
+            "Title": "Research and Application of Visual Engineering Project Management and Control System Based on Multimodal Information",
+            "Authors": ["Wang Feng", "Wang Ji", "Cai Hao", "Yang Gang"],
+            "Email": "719175019@qq.com"
+          },
+          {
+            "PaperID": "1571093037",
+            "ID": "F-19",
+            "Title": "Resource Management and Scalability in Container Orchestration Platforms",
+            "Authors": [
+              "Tejal Ghuge",
+              "Omer Farook Mohideen Abdul Kader",
+              "Roop Kumar Yekollu",
+              "Sammip Biradar",
+              "Shivkumar V Haldikar"
+            ],
+            "Email": "tejalghuge9@gmail.com"
+          },
+          {
+            "PaperID": "1571086387",
+            "ID": "F-20",
+            "Title": "Revolutionizing Emotional Intelligence With AI and Facial Data",
+            "Authors": [
+              "Harshalkumar Vanpariya",
+              "Paramprakash Makwana",
+              "Rituraj Jain",
+              "Damodharan Palaniappan"
+            ],
+            "Email": "harshalkumar.vanpariya118976@marwadiuniversity.ac.in"
+          },
+          {
+            "PaperID": "1571087411",
+            "ID": "F-21",
+            "Title": "Sculpting With Algorithms: A Computational Approach to Analyzing Digital and Traditional Methods",
+            "Authors": ["Prem Kumar"],
+            "Email": "premkumar.sod@gmail.com"
+          },
+          {
+            "PaperID": "1571089931",
+            "ID": "F-22",
+            "Title": "Sentiment Analysis of Online Streaming Reviews for Movies Using the Dual LSTM-CapsNet Model",
+            "Authors": ["Kondaveti Raja", "Bhramara Bar Biswal", "Rvvsv Prasad"],
+            "Email": "kondavetiraja213@gmail.com"
+          },
+          {
+            "PaperID": "1571093694",
+            "ID": "F-23",
+            "Title": "Skin Disease Classification With Help of Artificial Intelligence Techniques",
+            "Authors": ["Mohit Agarwal", "Rohit Kr Kaliyar", "Vivek Mehta"],
+            "Email": "mohit.agarwal@bennett.edu.in"
+          },
+          {
+            "PaperID": "1571084274",
+            "ID": "F-24",
+            "Title": "Systematic Review of Swarm Intelligence for Autonomous Radiotherapy Planning Decision-Making",
+            "Authors": [
+              "Nikitas Gerolimos",
+              "Vasileios Alevizos",
+              "Sabrina Edralin",
+              "Clark Xu",
+              "Akebu Simasiku",
+              "George A. Papakostaas"
+            ],
+            "Email": "vasileios.alevizos@stud.ki.se"
+          }
+        ]
+      },
+      {
+        "name": "Track-G: Fuzzy Logic, Neural Networks and Optimisation",
+        "Papers": [
+          {
+            "PaperID": "1571095266",
+            "ID": "G-01",
+            "Title": "A Data Hiding Method for Improved Payload Capacity Using a 2-Dimensional Block Segmentation",
+            "Authors": [
+              "Enrico Almer Tahara",
+              "Adifa D'Layla",
+              "Ntivuguruzwa Jean De La Croix",
+              "Tohari Ahmad"
+            ],
+            "Email": "6025241062@student.its.ac.id"
+          },
+          {
+            "PaperID": "1571085591",
+            "ID": "G-02",
+            "Title": "A Novel Fuzzy Logic Framework for Model Reliability Evaluation in Permeability Prediction Using GPR",
+            "Authors": [
+              "Ahmad Lawal",
+              "Yingjie Yang",
+              "Nathanael L Baisa",
+              "Hongmei He"
+            ],
+            "Email": "ahmad.lawal@dmu.ac.uk"
+          },
+          {
+            "PaperID": "1571094463",
+            "ID": "G-03",
+            "Title": "Enhanced Sugarcane Leaf Disease Detection via Hybrid Deep Capsule Autoencoder CNN Optimized by Improved Whale Algorithm",
+            "Authors": ["Raj Gaurang Tiwari", "Satvik Vats", "Ambuj Agrawal"],
+            "Email": "rajgaurang@chitkara.edu.in"
+          },
+          {
+            "PaperID": "1571080964",
+            "ID": "G-04",
+            "Title": "Enhancing Personalization in Media Streaming Services Through Graph Neural Network",
+            "Authors": [
+              "Ravindra Changala",
+              "S Sandya Sneha Sri",
+              "Sunil Kadyan",
+              "Sasthi Kumar C",
+              "Veera Ankalu Vuyyuru",
+              "B Kiran Bala"
+            ],
+            "Email": "changalaravindra@gmail.com"
+          },
+          {
+            "PaperID": "1571082811",
+            "ID": "G-05",
+            "Title": "Enhancing Turbidity Prediction in Saki Lake Using a Hybrid Gradient Boosting and Neural Network Model",
+            "Authors": ["P Durga Devi", "G. Mamatha"],
+            "Email": "durga.ppn@gmail.com"
+          },
+          {
+            "PaperID": "1571088171",
+            "ID": "G-06",
+            "Title": "Improvement of Spiking Neural Network With Bit Plane Coding",
+            "Authors": [
+              "Nhan T. Luu",
+              "Duong T Luu",
+              "Nam Pham Ngoc",
+              "Truong Cong Thang"
+            ],
+            "Email": "ltnhan0902@gmail.com"
+          },
+          {
+            "PaperID": "1571083334",
+            "ID": "G-07",
+            "Title": "Mood Based Music Composition With Transformers and Fuzzy Logic",
+            "Authors": ["Puppala Tirupathi", "Nagavelli Ramana", "Gade Sathwika"],
+            "Email": "puppalatirupathi@gmail.com"
+          },
+          {
+            "PaperID": "1571096110",
+            "ID": "G-08",
+            "Title": "Optimizing Edge Node Efficiency Through Data Reduction Using Dimension Reduction Techniques",
+            "Authors": ["Abhishek Kumar Saxena"],
+            "Email": "abhisaxena0212@gmail.com"
+          },
+          {
+            "PaperID": "1571088961",
+            "ID": "G-09",
+            "Title": "PepperShield: Disease Detection With Hyper Tuned Precision",
+            "Authors": [
+              "Anitha Julian",
+              "Jaiganesh V",
+              "Thirumurugan O T",
+              "Isreal Moses B"
+            ],
+            "Email": "cse.anithajulian@gmail.com"
+          },
+          {
+            "PaperID": "1571082416",
+            "ID": "G-10",
+            "Title": "Performance Analysis of Adaptive Neural-Fuzzy MPPT in Photovoltaic System",
+            "Authors": ["Anjali Yadav", "Imran Khan", "Saurabh Kumar"],
+            "Email": "Anjaliyadav199511@gmail.com"
+          },
+          {
+            "PaperID": "1571091042",
+            "ID": "G-11",
+            "Title": "Performance Evaluation of Deep Pre-Trained Models Under Progressive Blur",
+            "Authors": ["Mohit Tanwar", "Seba Susan"],
+            "Email": "mohittanwar_23ity21@dtu.ac.in"
+          },
+          {
+            "PaperID": "1571087516",
+            "ID": "G-12",
+            "Title": "Recommender System Using Decision Tree and Neural Network for Disaster Risk Reduction Management Services",
+            "Authors": [
+              "Joaquin Alaistair F Bayot",
+              "Christy C Segunto",
+              "Gene Daniela L Pahoyo",
+              "Criselle J Centeno",
+              "Mark Anthony S. Mercado",
+              "Dan Michael A. Cortez",
+              "Marilou B. Mangrobang"
+            ],
+            "Email": "jafbayot2021@plm.edu.ph"
+          },
+          {
+            "PaperID": "1571089402",
+            "ID": "G-13",
+            "Title": "Research on Digital 3D Reconstruction of Cultural Relics Based on Convolutional Enhanced Neural Radiance Field",
+            "Authors": ["Ping Wen Zhi", "Guo Shu Qiang"],
+            "Email": "2202301023@neepu.edu.cn"
+          },
+          {
+            "PaperID": "1571098919",
+            "ID": "G-14",
+            "Title": "TMT-Labelled Annotated Spectra Prediction Using Deep Neural Networks",
+            "Authors": ["Shraddha Khatri", "Anuradha Purohit"],
+            "Email": "shraddhak99@gmail.com"
+          },
+          {
+            "PaperID": "1571089750",
+            "ID": "G-15",
+            "Title": "Transformation of Sign Language to Text in Digital Era Using Deep Neural Network",
+            "Authors": [
+              "Mohebba Naaz",
+              "A Rajendra Babu",
+              "Y Siva Himaja",
+              "S.Joy Stuthi",
+              "B Mamatha"
+            ],
+            "Email": "mohebbanaaz@gmail.com"
+          }
+        ]
+      },
+      {
+        "name": "Track-H: Data Analytics, IT Enabled Services and Prototyping",
+        "Papers": [
+          {
+            "PaperID": "1571095160",
+            "ID": "H-01",
+            "Title": "A Comparative Analysis of JavaScript Unit and End-to-End Testing Frameworks: Enhancing Quality Assurance in Modern Web Applications",
+            "Authors": ["Anujkumarsinh Donvir"],
+            "Email": "anujdonvir@gmail.com"
+          },
+          {
+            "PaperID": "1571085457",
+            "ID": "H-02",
+            "Title": "A Data-Driven Approach to MBTI Personality Classification: Insights from Machine Learning Models",
+            "Authors": [
+              "Fares A. Dael",
+              "Symbat Maidanova",
+              "Ibraheem Shayea",
+              "Gulnara Abitova",
+              "Aigul Seraly"
+            ],
+            "Email": "fares.dael@bakircay.edu.tr"
+          },
+          {
+            "PaperID": "1571087381",
+            "ID": "H-03",
+            "Title": "A Knowledge Graph-Based Information Retrieval Method for Substation Safety Hazards",
+            "Authors": ["Yijun Yan"],
+            "Email": "2308661991@qq.com"
+          },
+          {
+            "PaperID": "1571087765",
+            "ID": "H-04",
+            "Title": "A Method for Constructing a Cross-Media Heterogeneous Information Network",
+            "Authors": ["Dong Wang", "Kaidi Tian", "Xiaoyu Chang", "Fanqi Meng"],
+            "Email": "707569380@qq.com"
+          },
+          {
+            "PaperID": "1571093640",
+            "ID": "H-05",
+            "Title": "A Study on the Impact of Microstructures Inside the Human Brain in Understanding the Progression of Alzheimer's Disease",
+            "Authors": [
+              "Sikha Saha",
+              "Sandiparna Barman",
+              "Bratin Ghosh",
+              "Soumyajit Biswas",
+              "Abhijit Chandra"
+            ],
+            "Email": "sikhasaha055@gmail.com"
+          },
+          {
+            "PaperID": "1571082357",
+            "ID": "H-06",
+            "Title": "A Validation Perspective on Random Forest for Precise Remaining Useful Life Prediction",
+            "Authors": [
+              "Keren Persis P",
+              "Radhika Sethuraman",
+              "R. Geetha",
+              "P.Tharaniya",
+              "Thalapathi Rajasekaran",
+              "G Ashwin Prabhu"
+            ],
+            "Email": "kerenpersisp.sse@saveetha.com"
+          },
+          {
+            "PaperID": "1571090083",
+            "ID": "H-07",
+            "Title": "Advanced Remote Sensing Techniques for Underwater Fin Whale Detection in the Indian Ocean",
+            "Authors": ["S Vasavi", "Akshaya Sura", "Pranavi Chimirala"],
+            "Email": "vasavi.movva@gmail.com"
+          },
+          {
+            "PaperID": "1571094244",
+            "ID": "H-08",
+            "Title": "AI-Powered Real-Time Text Editor With Speech Recognition and Multilingual Translation",
+            "Authors": [
+              "Anubhava Srivastava",
+              "Aditya Dwivedi",
+              "Shreya Shreya",
+              "Siddhinath Sahu"
+            ],
+            "Email": "anubhava.srivastava@sharda.ac.in"
+          },
+          {
+            "PaperID": "1571101786",
+            "ID": "H-09",
+            "Title": "Interactive Crime Map Integrating Geospatial Data to Improve Public Safety in the City of Lima",
+            "Authors": ["Cesar Pena", "Ciro Rodriguez"],
+            "Email": "cpena@unfv.edu.pe"
+          },
+          {
+            "PaperID": "1571089118",
+            "ID": "H-10",
+            "Title": "Comparative Analysis of One-Dimensional Regression Techniques",
+            "Authors": [
+              "Mehmet Bora Kocabaş",
+              "Waheeb Tashan",
+              "Ibraheem Shayea",
+              "Murat Alibek"
+            ],
+            "Email": "Waheebtashan88@gmail.com"
+          },
+          {
+            "PaperID": "1571090014",
+            "ID": "H-11",
+            "Title": "Comparative Effectiveness of Classification Algorithms in Predicting Diabetes",
+            "Authors": [
+              "Fares A. Dael",
+              "D. Mareyev",
+              "Ibraheem Shayea",
+              "Kulniyazova",
+              "Korlan S.",
+              "Gulnara Abitova"
+            ],
+            "Email": "fares.dael@bakircay.edu.tr"
+          },
+          {
+            "PaperID": "1571093802",
+            "ID": "H-12",
+            "Title": "Corn Disease Detection Using Few-Shot Learning Prototypical Network",
+            "Authors": ["Ruchi Rani", "Jayakrushna Sahoo", "Sivaiah Bellamkonda"],
+            "Email": "ruchiasija20@gmail.com"
+          },
+          {
+            "PaperID": "1571087764",
+            "ID": "H-13",
+            "Title": "Crop Growth Analysis Across Indian States: The Role of Temperature, Humidity, Soil pH, and Rainfall",
+            "Authors": ["Neha Chauhan", "Dinesh Sharma", "Manish Gupta"],
+            "Email": "neha.chauhan8924@gmail.com"
+          },
+          {
+            "PaperID": "1571101775",
+            "ID": "H-14",
+            "Title": "Gamification Model for the Affective Commitment of the Technology Team in a Financial Institution",
+            "Authors": ["Daniel-Antonio Farías-Güich", "Ciro Rodriguez"],
+            "Email": "ninten0411@gmail.com"
+          },
+          {
+            "PaperID": "1571085380",
+            "ID": "H-15",
+            "Title": "Data-Driven Strategies for Improving Railway Ticket Demand Forecasting Accuracy",
+            "Authors": [
+              "Tomiris Boltaikhanova",
+              "Fares A. Dael",
+              "Ibraheem Shayea",
+              "Rzayeva Leila"
+            ],
+            "Email": "l.rzayeva@astanait.edu.kz"
+          },
+          {
+            "PaperID": "1571090864",
+            "ID": "H-16",
+            "Title": "Dynamic Region-Aware Fine-Tuning: Enhancing Geographic Inclusivity in Large Language Models",
+            "Authors": ["K Shantha Kumari", "S.Udhaya shree", "C.Calarany"],
+            "Email": "shanthak@srmist.edu.in"
+          },
+          {
+            "PaperID": "1571085637",
+            "ID": "H-17",
+            "Title": "Empowering Agility: Unleashing Performance Potential With Power BI in IT Project Management",
+            "Authors": ["Arijit Sengupta", "Faizul Aziz"],
+            "Email": "senguptaarijit787@gmail.com"
+          },
+          {
+            "PaperID": "1571096414",
+            "ID": "H-18",
+            "Title": "Energy Efficient 8T SRAM Cell for Enhancing Read/Write Assist Performances With Stability",
+            "Authors": ["Ram Murti Rawat", "Vinod Kumar"],
+            "Email": "rammurtirawat@dtu.ac.in"
+          },
+          {
+            "PaperID": "1571096790",
+            "ID": "H-19",
+            "Title": "Enhanced Prediction of Happiness Scores Using Explainable AI and Ensemble Models With Socioeconomic Data",
+            "Authors": ["S Narendran"],
+            "Email": "naren.sridhar@hotmail.com"
+          },
+          {
+            "PaperID": "1571074618",
+            "ID": "H-20",
+            "Title": "Fox- Based Feature Selection Algorithm for Detection of Parkinson's Disease",
+            "Authors": ["Neha Singh", "Sapna Sinha", "Laxman Singh"],
+            "Email": "neha.singh7@s.amity.edu"
+          },
+          {
+            "PaperID": "1571095242",
+            "ID": "H-21",
+            "Title": "Framework-Agnostic JavaScript Component Libraries: Benefits, Implementation Strategies, and Commercialization Models",
+            "Authors": [
+              "Kishan Kesari Gupta",
+              "Prashant Awasthi",
+              "Mahaboobsubani Shaik",
+              "Parag Ravikant Kaveri"
+            ],
+            "Email": "kishankesri1996@gmail.com"
+          },
+          {
+            "PaperID": "1571097358",
+            "ID": "H-22",
+            "Title": "Leveraging LLMs for LLM-Generated Fake News Detection: Insights From COVID-19 Misinformation",
+            "Authors": [
+              "Hong Ngoc Dao",
+              "Yasuhiro Hashimoto",
+              "Incheon Paik",
+              "Truong Cong Thang"
+            ],
+            "Email": "dao@u-aizu.ac.jp"
+          },
+          {
+            "PaperID": "1571095199",
+            "ID": "H-23",
+            "Title": "NLP in Business Analytics: Generating Insights From Textual Data Using NLP Models",
+            "Authors": ["Parul Dubey", "Priyanshi Arya", "Ketki Ninawe"],
+            "Email": "parul.dubey@sitnagpur.siu.edu.in"
+          },
+          {
+            "PaperID": "1571096559",
+            "ID": "H-24",
+            "Title": "Operationalizing Your Data Pipeline With Airflow: Automation for the Future of AI and Analytics",
+            "Authors": [
+              "Kulesh B Abhayasundara",
+              "Jayakody Arachchilage Don Chaminda Anuradha Jayakody"
+            ],
+            "Email": "ms23006584@my.sliit.lk"
+          },
+          {
+            "PaperID": "1571097420",
+            "ID": "H-25",
+            "Title": "Real-Time Accident Detection and Response System Using Resnet Algorithm",
+            "Authors": ["Sabitha R", "Tejashree D", "Yaashish G"],
+            "Email": "sabitha.r@rajalakshmi.edu.in"
+          },
+          {
+            "PaperID": "1571087501",
+            "ID": "H-26",
+            "Title": "Sales Prediction for Imported Fruits Using a Linear Regression Model",
+            "Authors": ["Ankita Bose", "Jayasravani Bhumireddy"],
+            "Email": "abose@gitam.edu"
+          },
+          {
+            "PaperID": "1571075201",
+            "ID": "H-27",
+            "Title": "Sales Predictions for Video Games Using Predictive Analytics of Market Data",
+            "Authors": ["Dashae Gray", "Atef Shalan", "Christopher Kadlec"],
+            "Email": "dg12984@georgiasouthern.edu"
+          },
+          {
+            "PaperID": "1571085992",
+            "ID": "H-28",
+            "Title": "Shanno Quadratic Algorithms for Effective Force and Position Control in Bilateral Teleoperation",
+            "Authors": ["Naveen Kumar", "Niharika Thakur", "Yogita Gupta"],
+            "Email": "naveenkumarjournal123@gmail.com"
+          },
+          {
+            "PaperID": "1571094708",
+            "ID": "H-29",
+            "Title": "VR Applications and Vision-Based Recognition Techniques for Sign Language: a Survey",
+            "Authors": [
+              "Sumayyah Seher",
+              "Kulsoom Abedi",
+              "Kulsum Fatima",
+              "Sadiya Badiwalla",
+              "Taha Houda"
+            ],
+            "Email": "202100225@pmu.edu.sa"
+          },
+          {
+            "PaperID": "1570979447",
+            "ID": "H-30",
+            "Title": "3D Ear Biometric Verification via Local Depth",
+            "Authors": [
+              "Iyyakutti Iyappan Ganapathi",
+              "Syed Sadaf Ali",
+              "Tamam Alsarhan",
+              "Naoufel Werghi"
+            ],
+            "Email": "iyyakutti.ganapathi@ku.ac.ae"
+          },
+          {
+            "PaperID": "1571102143",
+            "ID": "H-31",
+            "Title": "Exploring Denoising Diffusion Models for Realistic Anime Character Generation",
+            "Authors": ["Vishakha Kumari", "Robin Singh Bhadoria"],
+            "Email": "23mcs113@nith.ac.in"
+          }
+        ]
+      }
+    ]
+  }
+  
