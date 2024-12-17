@@ -7,154 +7,213 @@
           "ID": "A-01",
           "PaperID": "1571086130",
           "Title": "A Hybrid PSO-AOQPIO Approach for Efficient Wind-Affected UAV Task Allocation and Path Optimization",
-          "Authors": "Gurwinder Singh; Ranjan Walia; Ram Kishun Lodhi",
+          "Authors": ["Gurwinder Singh", "Ranjan Walia", "Ram Kishun Lodhi"],
           "Email": "gurwinder.e11253@cumail.in"
         },
         {
           "ID": "A-02",
           "PaperID": "1571078222",
           "Title": "A Modified Orthogonalization Minimization Algorithm for Millimeter Massive MIMO Communications",
-          "Authors": "Yaseen Aiman Mohammed; Anas Lateef Mahmood",
+          "Authors": ["Yaseen Aiman Mohammed", "Anas Lateef Mahmood"],
           "Email": "st.yaseen.aiman.mohammed@nahrainuniv.edu.iq"
         },
         {
           "ID": "A-03",
           "PaperID": "1571082781",
           "Title": "A Novel Multiple Input-Multiple Output Antenna Using Modified Co-Centric Hexagonal Resonator for Wi-Fi and 5G Communication System",
-          "Authors": "Kanishk Garg; Smriddhi Lau; Monika Kaushik; Usha Sharma; Megha Agarwal",
+          "Authors": [
+            "Kanishk Garg",
+            "Smriddhi Lau",
+            "Monika Kaushik",
+            "Usha Sharma",
+            "Megha Agarwal"
+          ],
           "Email": "starkanishkgarg@gmail.com"
         },
         {
           "ID": "A-04",
           "PaperID": "1571083843",
           "Title": "An Influence of Photonic Crystal Fibres on Bio Medical Applications in the Terahertz Regime Band",
-          "Authors": "Ajay Bale; Santhosh Krishna B V",
+          "Authors": ["Ajay Bale", "Santhosh Krishna B V"],
           "Email": "ajaysudhirbale@gmail.com"
         },
         {
           "ID": "A-05",
           "PaperID": "1571081098",
           "Title": "An Inventive DGS-Based Textile Antenna With Semi-Circular Ring With Triangular Cut for Healthcare Applications",
-          "Authors": "Garima Singh; Akhilendra Pratap Singh; Vinod Singh; Zakir Ali",
+          "Authors": [
+            "Garima Singh",
+            "Akhilendra Pratap Singh",
+            "Vinod Singh",
+            "Zakir Ali"
+          ],
           "Email": "ggarima.singh@gmail.com"
         },
         {
           "ID": "A-06",
           "PaperID": "1571060797",
           "Title": "Clock Synchronization Protocols and Models for Wireless Sensor Networks",
-          "Authors": "Murugaiyan Swaminathan Nidhya; Geetha S",
+          "Authors": ["Murugaiyan Swaminathan Nidhya", "Geetha S"],
           "Email": "ms.nidhya@jainuniversity.ac.in"
         },
         {
           "ID": "A-07",
           "PaperID": "1571075498",
           "Title": "Comprehensive Test Approaches for MIMO and MEMS: Addressing Challenges in Miniaturized and Multi-Channel Systems",
-          "Authors": "Ramanjaneyulu K; Kanavath Chinna Kullayappa, Naik; Kishore Babu K; Vidyanadha Babu D; Mohamed Kalith Oli M",
+          "Authors": [
+            "Ramanjaneyulu K",
+            "Kanavath Chinna Kullayappa",
+            "Naik",
+            "Kishore Babu K",
+            "Vidyanadha Babu D",
+            "Mohamed Kalith Oli M"
+          ],
           "Email": "ramanjaneyulu.k@qiscet.edu.in"
         },
         {
           "ID": "A-08",
           "PaperID": "1571084463",
           "Title": "Design of Conformal Flexible Monopole Antenna With Corrugated Structures for Lower Band Sub 6GHz Applications",
-          "Authors": "Nalini Prasad Tirumani; Satti Sudha Mohan Reddy; Kolisetty Rama Devi",
+          "Authors": [
+            "Nalini Prasad Tirumani",
+            "Satti Sudha Mohan Reddy",
+            "Kolisetty Rama Devi"
+          ],
           "Email": "naliniprasad@srkrec.ac.in"
         },
         {
           "ID": "A-09",
           "PaperID": "1571087320",
           "Title": "Design of Quad-Port Circular-Shaped MIMO Patch Antenna for Triple-Band THz Wireless Communication",
-          "Authors": "Chirukuri Naga Phaneendra; Ketavath Kumar Naik",
+          "Authors": ["Chirukuri Naga Phaneendra", "Ketavath Kumar Naik"],
           "Email": "phani.chirukuri@gmail.com"
         },
         {
           "ID": "A-10",
           "PaperID": "1571094438",
           "Title": "Design of UWB Textile Antenna for Wireless Communication Applications",
-          "Authors": "Raghav Dwivedi; Dinesh Kumar Srivastava; Vinod Singh",
+          "Authors": [
+            "Raghav Dwivedi",
+            "Dinesh Kumar Srivastava",
+            "Vinod Singh"
+          ],
           "Email": "raghav.psit@gmail.com"
         },
         {
           "ID": "A-11",
           "PaperID": "1571097228",
           "Title": "Dipole Antenna Array Synthesis for Improvement of the Performance Using FPA",
-          "Authors": "Hemant Patidar; Prasanna Kumar Singh; Arnab De; Prashant Upadhyay; Kuldeep Yadav",
+          "Authors": [
+            "Hemant Patidar",
+            "Prasanna Kumar Singh",
+            "Arnab De",
+            "Prashant Upadhyay",
+            "Kuldeep Yadav"
+          ],
           "Email": "hemantpatidar08@gmail.com"
         },
         {
           "ID": "A-12",
           "PaperID": "1571089328",
           "Title": "Enhancing Agricultural Efficiency With IoT-Enabled Precision Irrigation Management Using LoRaWAN Technology",
-          "Authors": "J Jayasinghe; T Thennakoon; Chamod Ruchira Gamage",
+          "Authors": ["J Jayasinghe", "T Thennakoon", "Chamod Ruchira Gamage"],
           "Email": "it20624023@my.sliit.lk"
         },
         {
           "ID": "A-13",
           "PaperID": "1571098081",
           "Title": "Enhancing Wireless Network Performance Using Zone-Based Reinforcement Learning: the ZoneWise-RL Approach",
-          "Authors": "Swati Bhagoriya; M A Rizvi; Kanak Saxena",
+          "Authors": ["Swati Bhagoriya", "M A Rizvi", "Kanak Saxena"],
           "Email": "swatibhagoriya@gmail.com"
         },
         {
           "ID": "A-14",
           "PaperID": "1571082836",
           "Title": "Feeding Methods of Broadband CP Antenna: A Comprehensive Review",
-          "Authors": "Aniket Vasant Gunjal; Ujwala Kshirsagar",
+          "Authors": ["Aniket Vasant Gunjal", "Ujwala Kshirsagar"],
           "Email": "aniketgunjal89@gmail.com"
         },
         {
           "ID": "A-15",
           "PaperID": "1571093147",
           "Title": "FinFET Based Low Power and High Speed 3-Stage Comparator",
-          "Authors": "Valluru Pavani; Simhadri Sai Kiran; Tentu Yaswanth; Marisetti Upendr; Simhadri Mahesh; Jami Venkata Suman, Jvs",
+          "Authors": [
+            "Valluru Pavani",
+            "Simhadri Sai Kiran",
+            "Tentu Yaswanth",
+            "Marisetti Upendr",
+            "Simhadri Mahesh",
+            "Jami Venkata Suman",
+            "Jvs"
+          ],
           "Email": "21341A04H7@gmrit.edu.in"
         },
         {
           "ID": "A-16",
           "PaperID": "1571085728",
           "Title": "Modulation-Aware Asymmetrical Traffic Demand Splitting Based on Heterogeneous Traffic Demands",
-          "Authors": "Amit Khanjan Sarma; Sanjib K. Deka; Nityananda Sarma",
+          "Authors": [
+            "Amit Khanjan Sarma",
+            "Sanjib K. Deka",
+            "Nityananda Sarma"
+          ],
           "Email": "amitkhanjansarma@gmail.com"
         },
         {
           "ID": "A-17",
           "PaperID": "1571089662",
           "Title": "Optimizing Mobile Charger Scheduling in Wireless Rechargeable Sensor Networks Using Min-Heap Algorithm",
-          "Authors": "Md Kamaruzzaman; Abhijit Chandra",
+          "Authors": ["Md Kamaruzzaman", "Abhijit Chandra"],
           "Email": "mdkamruzzaman.iee.rs@jadavpuruniversity.in"
         },
         {
           "ID": "A-18",
           "PaperID": "1571093843",
           "Title": "Optimizing the Threshold Modified Comparator Circuit (TMCC) With NCFET Technology for Low Power and High-Speed Performance",
-          "Authors": "Venu Siripurapu; Sailada Srivallika; Sarvisetti Soma Surya; Thota Durga Prasad; Vasudeva Bevara",
+          "Authors": [
+            "Venu Siripurapu",
+            "Sailada Srivallika",
+            "Sarvisetti Soma Surya",
+            "Thota Durga Prasad",
+            "Vasudeva Bevara"
+          ],
           "Email": "21341a04i7@gmrit.edu.in"
         },
         {
           "ID": "A-19",
           "PaperID": "1571087450",
           "Title": "Performance Analysis of Single, Double and Triple Rings as Absorber",
-          "Authors": "Binshati Chatterjee",
+          "Authors": ["Binshati Chatterjee"],
           "Email": "bichatterjee@kkwagh.edu.in"
         },
         {
           "ID": "A-20",
           "PaperID": "1571087146",
           "Title": "Power Consumption-Aware Asymmetrical Traffic Splitting in SEON Based on Traffic Demands",
-          "Authors": "Amit Khanjan Sarma; Sanjib K. Deka; Nityananda Sarma",
+          "Authors": [
+            "Amit Khanjan Sarma",
+            "Sanjib K. Deka",
+            "Nityananda Sarma"
+          ],
           "Email": "amitkhanjansarma@gmail.com"
         },
         {
           "ID": "A-21",
           "PaperID": "1571096920",
           "Title": "Spatial Monitoring Using Transmit-Only Static Wireless Sensors Under Uncertainties: a Search-Based Detection Approach",
-          "Authors": "Hadi Alasti",
+          "Authors": ["Hadi Alasti"],
           "Email": "alasti.hadi@gmail.com"
         },
         {
           "ID": "A-22",
           "PaperID": "1571095308",
           "Title": "Transfer Learning for Efficient Node Placement in Dynamic Wireless Sensor Networks",
-          "Authors": "Rahul Priyadarshi; Shiva Singh Bagri; Rakesh Ranjan; Sundaram Sundaram",
+          "Authors": [
+            "Rahul Priyadarshi",
+            "Shiva Singh Bagri",
+            "Rakesh Ranjan",
+            "Sundaram Sundaram"
+          ],
           "Email": "rahul.glorious91@gmail.com"
         }
       ]
@@ -1054,6 +1113,13 @@
             "Radha Subramanyam"
           ],
           "Email": "nagabushanamphd14@gmail.com"
+        },
+        {
+          "PaperID": "1571088358",
+          "ID": "D-08",
+          "Title": "Design and Development of an Intelligent Automated Waste Segregation System Using Arduino for Efficient Waste Management",
+          "Authors": ["Kalaiarasi A R", "Kalaiarasi A R"],
+          "Email": "kalaiarasi@saveetha.ac.in ,mprabakaran@saveetha.ac.in"
         }
       ]
     },
@@ -1363,11 +1429,11 @@
           "Email": "ezumalair9075.sse@saveetha.com"
         },
         {
-          "PaperID": "1571087313",
+          "PaperID": " ",
           "ID": "E-34",
-          "Title": "Possible Improvements of TCP Protocol With Use of Heuristic Methods for Networks With Heavy Packet Loss",
-          "Authors": ["Afan Ceco"],
-          "Email": "afan.ceco@etf.unsa.ba"
+          "Title": "A Framework for Human Activity Recognition in Multiview Environment Based on URILBP and ConvSTLSTM",
+          "Authors": ["Diksha Kurchaniya", "Sanjay Kumar"],
+          "Email": "dikshakurchaniya@gmail.com"
         },
         {
           "PaperID": "1571086311",
@@ -2020,9 +2086,9 @@
           "Email": "parul.dubey@sitnagpur.siu.edu.in"
         },
         {
-          "PaperID": "1571096559",
+          "PaperID": " 1571095355",
           "ID": "H-24",
-          "Title": "Operationalizing Your Data Pipeline With Airflow: Automation for the Future of AI and Analytics",
+          "Title": "Predicting Crop Yields: Harnessing IoT Sensor Data for Accurate Forecasting and Sustainable Agricultural Planning",
           "Authors": [
             "Kulesh B Abhayasundara",
             "Jayakody Arachchilage Don Chaminda Anuradha Jayakody"

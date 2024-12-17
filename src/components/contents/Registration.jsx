@@ -55,7 +55,7 @@ const Registration = () => {
             </thead>
             <tbody>
               <tr className="bg-gray-100 hover:bg-gray-200">
-                <td className="py-3 px-4 border-b">IEEE Member</td>
+                <td className="py-3 px-4 border-b">IEEE Member </td>
                 <td className="py-3 px-4 border-b text-center">Rs 5000</td>
                 <td className="py-3 px-4 border-b text-center">$200</td>
               </tr>
@@ -97,8 +97,6 @@ const Registration = () => {
               <u>Payment Modes:</u>
             </strong>
           </p>
-
-         
 
           {/* Bank Transfer Details Section */}
           <div className="mb-6 p-6 border border-gray-300 rounded-lg shadow-md bg-white">

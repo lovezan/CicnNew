@@ -36,6 +36,7 @@ const ImportantDatesAndScheduling = () => {
         </h1>
       </div>
       <ScheduleTable />
+    
 
       {/* Notice Section */}
       <div className="text-center mb-6 text-lg text-gray-700">
@@ -102,7 +103,18 @@ const ImportantDatesAndScheduling = () => {
                           <p className="break-words">{paper.Title}</p>
                         </td>
                         <td className="p-3 w-1/4 text-gray-700 author-cell">
-                          <p className="break-words">{paper.Authors}</p>
+                          <p className="break-words">
+                            {Array.isArray(paper.Authors)
+                              ? paper.Authors.map((author, index) => (
+                                  <span key={index}>
+                                    {author}
+                                    {index < paper.Authors.length - 1 && (
+                                      <span className="font-bold">, </span>
+                                    )}
+                                  </span>
+                                ))
+                              : paper.Authors}
+                          </p>
                         </td>
 
                         <td className="p-3 border-r w-1/4 text-gray-700 email-cell">
