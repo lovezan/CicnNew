@@ -50,8 +50,7 @@ const ConferenceSchedule = () => {
         </h2>
 
         {/* Schedule Timings in One Line */}
-        <div className="overflow-x-auto max-w-full">
-
+        <div className="overflow-x-auto max-w-full font-bold">
           <table className="w-full text-sm text-left border-collapse">
             {/* Table Header */}
             <thead className="sticky top-0 bg-blue-600 text-white shadow-sm">
@@ -64,7 +63,7 @@ const ConferenceSchedule = () => {
             {/* Table Body */}
             <tbody>
               <tr className="bg-gray-50 hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   08:30-09:30
                 </td>
                 <td className=" bg-green-200 text-gray-700 text-center font-bold">
@@ -72,7 +71,7 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   09:30-10:30
                 </td>
                 <td className=" bg-red-200 text-gray-700 text-center font-bold">
@@ -81,7 +80,7 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-gray-50 hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   10:30-10:50
                 </td>
                 <td className=" text-gray-700 text-center font-bold">
@@ -89,7 +88,7 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   10:50-11:45
                 </td>
                 <td className=" bg-red-200 text-gray-700 text-center font-bold">
@@ -101,42 +100,62 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-gray-50 hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   11:45-13:15
                 </td>
                 <td className=" text-gray-700">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center">TS-1</th>
-                        <th className="border-b text-center">TS-2</th>
-                        <th className="border-b text-center">TS-3</th>
-                        <th className="border-b text-center">TS-4</th>
-                        <th className="border-b text-center">TS-5</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-1
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-2
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-3
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-4
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-5
+                        </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           A-1, A-2, A-3, A-4, A-5, A-11
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           B-7, B-8, B-9, B-10, B-11, B-26
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           C-19, C-20, C-21, C-22, C-23, C-24
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           E-7, E-8, E-9, E-10, E-19, E-38
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           G-13, G-14, G-15, C-25, C-26, D-7
                         </td>
                       </tr>
@@ -145,48 +164,68 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   13:15-14:15
                 </td>
                 <td className=" text-gray-700 text-center font-bold">Lunch</td>
               </tr>
               <tr className="bg-gray-50 hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   14:15-16:00
                 </td>
                 <td className=" text-gray-700 text-center">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center">TS-6</th>
-                        <th className="border-b text-center">TS-7</th>
-                        <th className="border-b text-center">TS-8</th>
-                        <th className="border-b text-center">TS-9</th>
-                        <th className="border-b text-center">TS-10</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-6
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-7
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-8
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-9
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-10
+                        </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           B-1, B-2, B-3, B-4, B-5, B-6
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           C-1, C-2, C-3, C-4, C-5, C-6
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           F-1, F-2, F-3, F-4, F-5, F-6
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           E-1, E-2, E-3, E-4, E-5, E-6
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           H-1, H-2, H-3, H-4, H-5, H-6, H-27, H-28
                         </td>
                       </tr>
@@ -196,7 +235,7 @@ const ConferenceSchedule = () => {
               </tr>
 
               <tr className="bg-white hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   16:00-16:15
                 </td>
                 <td className=" text-gray-700 text-center font-bold">
@@ -204,43 +243,63 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-gray-50 hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   16:15-17:45
                 </td>
-                <td className=" bg-yellow-200-accent">
+                <td className=" bg-yellow-200-accent-accent">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center">TS-11</th>
-                        <th className="border-b text-center">TS-12</th>
-                        <th className="border-b text-center">TS-13</th>
-                        <th className="border-b text-center">TS-14</th>
-                        <th className="border-b text-center">TS-15</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-11
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-12
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-13
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-14
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-15
+                        </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           B-12, B-13, B-14, B-15, B-16, B-17
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           F-7, F-8, F-9, F-10, F-11, F-12
                         </td>
-                        <td className="border-b text-sm">
-                          D-1, D-2, D-3, D-4, D-5, D-6
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
+                          D-1, D-2, D-3, D-4, D-5, D-6, D-8
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           H-7, H-8, H-9, H-10, H-11, H-12, H-29
                         </td>
-                        <td className="border-b text-sm">
-                          E-36, E-37, E-39, E-40, H-20, H-21
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
+                          E-36, E-37, E-39, E-40, H-13, H-20, H-21
                         </td>
                       </tr>
                     </tbody>
@@ -260,7 +319,6 @@ const ConferenceSchedule = () => {
 
         {/* Schedule Timings in One Line */}
         <div className="overflow-x-auto max-w-full">
-
           <table className="w-full text-sm text-left border-collapse">
             {/* Table Header */}
             <thead className="sticky top-0 bg-blue-600 text-white shadow-sm">
@@ -273,7 +331,7 @@ const ConferenceSchedule = () => {
             {/* Table Body */}
             <tbody>
               <tr className="bg-gray-50 hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   09:30-10:30
                 </td>
                 <td className="  bg-red-200 text-gray-700 text-center font-bold">
@@ -288,42 +346,62 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   10:30-12:00
                 </td>
                 <td className=" text-gray-700  text-center  ">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center">TS-16</th>
-                        <th className="border-b text-center">TS-17</th>
-                        <th className="border-b text-center">TS-18</th>
-                        <th className="border-b text-center">TS-19</th>
-                        <th className="border-b text-center">TS-20</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-16
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-17
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-18
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-19
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-20
+                        </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           B-18, B-19, B-20, B-21, B-22, B-23
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           C-7, C-8, C-9, C-10, C-11, C-12
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           E-11, E-12, E-13, E-14, E-15, E-16
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           F-13, F-14, F-15, F-16, F-17, F-18
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           A-6, A-7, A-8, A-9, A-10, A-12
                         </td>
                       </tr>
@@ -332,42 +410,62 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   12:00-13:30
                 </td>
                 <td className=" text-gray-700  text-center ">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center">TS-21</th>
-                        <th className="border-b text-center">TS-22</th>
-                        <th className="border-b text-center">TS-23</th>
-                        <th className="border-b text-center">TS-24</th>
-                        <th className="border-b text-center">TS-25</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-21
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-22
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-23
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-24
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-25
+                        </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           B-24, B-25, B-27, B-28, B-29, B-30
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           C-13, C-14, C-15, C-16, C-17, C-18
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           E-17, E-18, E-20, E-21, E-22, E-23
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           F-19, F-20, F-21, F-22, F-23, F-24
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           A-13, A-14, A-15, A-16, A-17, A-18
                         </td>
                       </tr>
@@ -377,7 +475,7 @@ const ConferenceSchedule = () => {
               </tr>
 
               <tr className="bg-gray-50 hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   13:30-14:30
                 </td>
                 <td className="p-3 text-gray-700 text-center font-bold">
@@ -385,11 +483,11 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-gray-50 hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   14:30-16:00
                 </td>
                 <td className=" bg-pink-200 text-gray-700 text-center font-bold">
-                  Expert Talk 2: Dr. Muthukumar Ka, UPES Dehradun
+                  Expert Talk: Dr. Muthukumar Ka, UPES Dehradun
                   <div className="text-sm font-normal">
                     (AI in Medical Imaging: Developing a Hybrid Model for
                     Efficient Brain MRI Analysis and Interpretation)
@@ -397,42 +495,62 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   14:30-16:00
                 </td>
                 <td className=" text-gray-700  text-center ">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center">TS-26</th>
-                        <th className="border-b text-center">TS-27</th>
-                        <th className="border-b text-center">TS-28</th>
-                        <th className="border-b text-center">TS-29</th>
-                        <th className="border-b text-center">TS-30</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-26
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-27
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-28
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-29
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-30
+                        </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           B-31, B-32, B-33, B-34, B-35, B-36
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           G-1, G-2, G-3, G-4, G-5, G-6
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           E-24, E-25, E-26, E-27, E-28, E-29
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           A-19, A-20, A-21, A-22, H-22, H-23
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           B-43, B-44, B-45, B-46, B-47, B-48
                         </td>
                       </tr>
@@ -441,42 +559,62 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-3 bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
                   16:00-17:45
                 </td>
                 <td className=" text-gray-700  text-center ">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className=" border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center">TS-31</th>
-                        <th className="border-b text-center">TS-32</th>
-                        <th className="border-b text-center">TS-33</th>
-                        <th className="border-b text-center">TS-34</th>
-                        <th className="border-b text-center">TS-35</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-31
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-32
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-33
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-34
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          TS-35
+                        </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           B-37, B-38, B-39, B-40, B-41, B-42, H-24
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           G-7, G-8, G-9, G-10, G-11, G-12, H-25
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           E-30, E-31, E-32, E-33, E-34, E-35, H-26
                         </td>
-                        <td className="border-b text-sm">
-                          H-13, H-14, H-15, H-16, H-17, H-18, H-19
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
+                          H-14, H-15, H-16, H-17, H-18, H-19
                         </td>
-                        <td className="border-b text-sm">
+                        <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           B-49, B-50, B-51, B-52, B-53, H-30
                         </td>
                       </tr>

@@ -490,16 +490,11 @@
           "Email": "bakhtiyaradeeba14@gmail.com"
         },
         {
-          "PaperID": "Rekha_iiiit",
+          "PaperID": "",
           "ID": "B-28",
-          "Title": "Identification of Corn Leaf Disease Using Deep Learning",
-          "Authors": [
-            "Rekha Kaushik",
-            "Suryansh Yagnik",
-            "Aman Verma",
-            "Nitin Yadav"
-          ],
-          "Email": "yagniksuryansh@gmail.com"
+          "Title": "",
+          "Authors": [],
+          "Email": ""
         },
         {
           "PaperID": "1571092780",
@@ -811,7 +806,11 @@
           "PaperID": "1571095994",
           "ID": "C-05",
           "Title": "Application of Secure and Energy-Efficient Data Access Solutions in Industrial IoT for Small-Scale Industry",
-          "Authors": ["Lopamudra Samal"],
+          "Authors": [
+            "Lopamudra Samal",
+            "KamalaKanta Mahapatra",
+            "Ayas Kanta Swain"
+          ],
           "Email": "lopamudrasamals@gmail.com"
         },
         {
@@ -1429,7 +1428,7 @@
           "Email": "ezumalair9075.sse@saveetha.com"
         },
         {
-          "PaperID": " ",
+          "PaperID": "1571102851",
           "ID": "E-34",
           "Title": "A Framework for Human Activity Recognition in Multiview Environment Based on URILBP and ConvSTLSTM",
           "Authors": ["Diksha Kurchaniya", "Sanjay Kumar"],

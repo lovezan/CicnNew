@@ -15,7 +15,7 @@ const ConferenceSchedule = () => {
         </h2>
 
         {/* Schedule Timings in One Line */}
-        <div className="overflow-x-auto">
+        <div className="overflow-x-auto font-bold">
           <table className="w-full text-xs text-left border-collapse">
             {/* Table Header */}
             <thead className="sticky top-0 bg-blue-600 text-white shadow-xs">
@@ -27,41 +27,51 @@ const ConferenceSchedule = () => {
 
             {/* Table Body */}
             <tbody>
-              <tr className="bg-gray-50 hover:bg-gray-100 text-center ">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+              <tr className="bg-gray-50 hover:bg-gray-100 text-center  ">
+                <td className="p-5 bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   11:45-13:15
                 </td>
                 <td className=" text-gray-700  ">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center ">Room A</th>
-                        <th className="text-center ">Room B</th>
-                        <th className="text-center ">Room C</th>
-                        <th className="text-center ">Room D</th>
-                        <th className="text-center ">Room E</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center bg-teal-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-teal-300">
                           TS-1
                         </th>
-                        <th className="border-b text-center bg-yellow-400">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-yellow-400">
                           TS-2
                         </th>
-                        <th className="border-b text-center bg-pink-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-pink-300">
                           TS-3
                         </th>
-                        <th className="border-b text-center bg-indigo-200">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-indigo-200">
                           TS-4
                         </th>
-                        <th className="border-b text-center bg-purple-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-purple-300">
                           TS-5
                         </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xs bg-teal-300">
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-teal-300">
                           Dr. Vivek S. Kushwah, <br />
                           CBIT Hyderabad
                           <br />
@@ -73,9 +83,8 @@ const ConferenceSchedule = () => {
                           </a>
                           <br />
                         </td>
-                        <td className="border-b text-xs bg-yellow-400">
-                          Dr. Ajeet Singh,
-                          <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-yellow-400">
+                          Dr. Ajeet Singh, <br />
                           Galgoatis University, Noida
                           <br />
                           <a
@@ -86,7 +95,7 @@ const ConferenceSchedule = () => {
                           </a>
                           <br />
                         </td>
-                        <td className="border-b text-xs bg-pink-300">
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-pink-300">
                           Dr. Dipak Kumar Sah, <br />
                           GLA University, Mathura
                           <br />
@@ -98,7 +107,7 @@ const ConferenceSchedule = () => {
                           </a>
                           <br />
                         </td>
-                        <td className="border-b text-xs bg-indigo-200">
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-indigo-200">
                           Dr. Arvind Mewada, <br />
                           Bennett University, Noida
                           <br />
@@ -110,7 +119,7 @@ const ConferenceSchedule = () => {
                           </a>
                           <br />
                         </td>
-                        <td className="border-b text-xs bg-purple-300">
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-purple-300">
                           Kishan Kesari Gupta, <br />
                           Capgemini, Pune
                           <br />
@@ -126,24 +135,23 @@ const ConferenceSchedule = () => {
 
                       {/* Moderator Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-teal-300">
-                          Moderator: : Dr. Mamta Meena
-                          <br />
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-teal-300">
+                          Moderator: Dr. Mamta Meena <br />
                           9987144336
                         </td>
-                        <td className="border-b text-xxs bg-yellow-400">
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-yellow-400">
                           Moderator: Dr. Megha Singh <br />
                           8817623987
                         </td>
-                        <td className="border-b text-xxs bg-pink-300">
-                          Moderator:Ms. Sonal Yadav <br />
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-pink-300">
+                          Moderator: Ms. Sonal Yadav <br />
                           8319980188
                         </td>
-                        <td className="border-b text-xxs bg-indigo-200">
-                          Moderator:Ms. Akanasha Pal <br />
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-indigo-200">
+                          Moderator: Ms. Akanasha Pal <br />
                           8602716434
                         </td>
-                        <td className="border-b text-xxs bg-purple-300">
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-purple-300">
                           Moderator: Mr. Manoj Kumar Biswkarma <br />
                           9755136775
                         </td>
@@ -151,49 +159,49 @@ const ConferenceSchedule = () => {
 
                       {/* Google Meet Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-teal-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-teal-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/ebn-ibst-ajo
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-yellow-400">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-yellow-400">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/hjx-xjby-mch
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-pink-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-pink-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/mxm-fzxh-tnx
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-indigo-200">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-indigo-200">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/uof-upey-wmi
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-purple-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-purple-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/uvh-rucp-rag
                           </a>
                         </td>
                       </tr>
@@ -202,127 +210,127 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className=" bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   13:15-14:15
                 </td>
 
                 <td className=" text-gray-700 text-center font-bold">Lunch</td>
               </tr>
               <tr className="bg-gray-50 hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className=" bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   14:15-16:00
                 </td>
                 <td className=" text-gray-700 text-center">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center ">Room A</th>
-                        <th className="text-center ">Room B</th>
-                        <th className="text-center ">Room C</th>
-                        <th className="text-center ">Room D</th>
-                        <th className="text-center ">Room E</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center bg-lime-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-lime-300">
                           TS-6
                         </th>
-                        <th className="border-b text-center bg-rose-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-rose-300">
                           TS-7
                         </th>
-                        <th className="border-b text-center bg-indigo-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-indigo-300">
                           TS-8
                         </th>
-                        <th className="border-b text-center bg-cyan-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-cyan-300">
                           TS-9
                         </th>
-                        <th className="border-b text-center bg-teal-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-teal-300">
                           TS-10
                         </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xs bg-lime-300">
-                          Dr. Neeraj Rathore , <br />
-                          IGNTU, Amarkantak
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-lime-300">
+                          Dr. Atul Agrawal, <br /> Oriental University, Indore{" "}
                           <br />
                           <a
-                            href="mailto:neeraj.rathore@igntu.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            href="mailto:atulagrawal@orientaluniversity.in"
+                            className="text-blue-500 underline"
                           >
-                            neeraj.rathore@igntu.ac.in
+                            atulagrawal@orientaluniversity.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-rose-300">
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-rose-300">
                           Dr. Mohd. Aquib Ansari, <br />
-                          Bennett University, Noida
-                          <br />
+                          Bennett University, Noida <br />
                           <a
                             href="mailto:mohd.aquib@bennett.edu.in"
                             className="text-blue-500 text-xs underline"
                           >
                             mohd.aquib@bennett.edu.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-indigo-300">
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-indigo-300">
                           Dr. Munish Khanna, <br />
-                          Galgotias University, Noida
-                          <br />
+                          Galgotias University, Noida <br />
                           <a
                             href="mailto:munish.khanna@galgotiasuniversity.edu.in"
                             className="text-blue-500 text-xs underline"
                           >
                             munish.khanna@galgotiasuniversity.edu.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-cyan-300">
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-cyan-300">
                           Dr. Shishir Dixit, <br />
-                          MITS Gwalior
-                          <br />
+                          MITS Gwalior <br />
                           <a
                             href="mailto:shishir.dixit1@mitsgwalior.in"
                             className="text-blue-500 text-xs underline"
                           >
                             shishir.dixit1@mitsgwalior.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-teal-300">
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-teal-300">
                           Dr. Brijesh Kumar Chaurasia, <br />
-                          PSIT Kanpur
-                          <br />
+                          PSIT Kanpur <br />
                           <a
                             href="mailto:brijeshchaurasia@ieee.org"
                             className="text-blue-500 text-xs underline"
                           >
                             brijeshchaurasia@ieee.org
                           </a>
-                          <br />
                         </td>
                       </tr>
 
                       {/* Moderator Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-lime-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-lime-300">
                           Moderator: Dr. Megha Singh <br />
                           8817623987
                         </td>
-                        <td className="border-b text-xxs bg-rose-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-rose-300">
                           Moderator: Ms. Sonal Yadav <br />
                           8319980188
                         </td>
-                        <td className="border-b text-xxs bg-indigo-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-indigo-300">
                           Moderator: Ms. Sonal Yadav <br />
                           8319980188
                         </td>
-                        <td className="border-b text-xxs bg-cyan-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-cyan-300">
                           Moderator: Ms. Akanasha Pal <br />
                           8602716434
                         </td>
-                        <td className="border-b text-xxs bg-teal-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-teal-300">
                           Moderator: Mr. Manoj Kumar Biswkarma <br />
                           9755136775
                         </td>
@@ -330,49 +338,49 @@ const ConferenceSchedule = () => {
 
                       {/* Google Meet Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-teal-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-lime-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/ebn-ibst-ajo
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-yellow-400">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-rose-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/hjx-xjby-mch
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-pink-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-indigo-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/mxm-fzxh-tnx
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-indigo-200">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-cyan-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/uof-upey-wmi
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-purple-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-teal-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/uvh-rucp-rag
                           </a>
                         </td>
                       </tr>
@@ -382,7 +390,7 @@ const ConferenceSchedule = () => {
               </tr>
 
               <tr className="bg-white hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className=" bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   16:00-16:15
                 </td>
                 <td className=" text-gray-700 text-center font-bold">
@@ -390,122 +398,120 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-gray-50 hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className=" bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   16:15-17:45
                 </td>
                 <td className=" text-gray-700">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center ">Room A</th>
-                        <th className="text-center ">Room B</th>
-                        <th className="text-center ">Room C</th>
-                        <th className="text-center ">Room D</th>
-                        <th className="text-center ">Room E</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center bg-indigo-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-indigo-300">
                           TS-11
                         </th>
-                        <th className="border-b text-center bg-teal-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-teal-300">
                           TS-12
                         </th>
-                        <th className="border-b text-center bg-lime-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-lime-300">
                           TS-13
                         </th>
-                        <th className="border-b text-center bg-rose-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-rose-300">
                           TS-14
                         </th>
-                        <th className="border-b text-center bg-cyan-300">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-cyan-300">
                           TS-15
                         </th>
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xs bg-indigo-300">
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-indigo-300">
                           Prof. MPS Chawla, <br />
-                          SGSITS Indore
-                          <br />
+                          SGSITS Indore <br />
                           <a
-                            href="mailto: mpschawla@gmail.com"
+                            href="mailto:mpschawla@gmail.com"
                             className="text-blue-500 text-xs underline"
                           >
                             mpschawla@gmail.com
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-teal-300">
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-teal-300">
                           Dr. Law Kumar Singh, <br />
-                          GLA University, Mathura
-                          <br />
+                          GLA University, Mathura <br />
                           <a
                             href="mailto:law.singh@gla.ac.in"
                             className="text-blue-500 text-xs underline"
                           >
                             law.singh@gla.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-lime-300">
-                          Dr. Somesh Kumar,
-                          <br />
-                          ABV-IIITM Gwalior
-                          <br />
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-lime-300">
+                          Dr. Somesh Kumar, <br />
+                          ABV-IIITM Gwalior <br />
                           <a
                             href="mailto:somesh@iiitm.ac.in"
                             className="text-blue-500 text-xs underline"
                           >
                             somesh@iiitm.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-rose-300">
-                          Dr. Saurabh Singhal,
-                          <br />
-                          GNIT, Gr. Noida
-                          <br />
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-rose-300">
+                          Dr. Saurabh Singhal, <br />
+                          GNIT, Gr. Noida <br />
                           <a
                             href="mailto:me.ssaurabh@gmail.com"
                             className="text-blue-500 text-xs underline"
                           >
                             me.ssaurabh@gmail.com
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-cyan-300">
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-cyan-300">
                           Dr. Abhay Pratap Singh Bhadauria, <br />
-                          GLA University, Mathura
-                          <br />
+                          GLA University, Mathura <br />
                           <a
-                            href="mailto: abhaypratap00@gmail.com"
+                            href="mailto:abhaypratap00@gmail.com"
                             className="text-blue-500 text-xs underline"
                           >
                             abhaypratap00@gmail.com
                           </a>
-                          <br />
                         </td>
                       </tr>
 
                       {/* Moderator Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-lime-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-indigo-300">
                           Moderator: Dr. Megha Singh <br />
                           8817623987
                         </td>
-                        <td className="border-b text-xxs bg-rose-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-teal-300">
                           Moderator: Ms. Sonal Yadav <br />
                           8319980188
                         </td>
-                        <td className="border-b text-xxs bg-indigo-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-lime-300">
                           Moderator: Ms. Sonal Yadav <br />
                           8319980188
                         </td>
-                        <td className="border-b text-xxs bg-cyan-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-rose-300">
                           Moderator: Ms. Akanasha Pal <br />
                           8602716434
                         </td>
-                        <td className="border-b text-xxs bg-teal-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-cyan-300">
                           Moderator: Mr. Manoj Kumar Biswkarma <br />
                           9755136775
                         </td>
@@ -513,49 +519,49 @@ const ConferenceSchedule = () => {
 
                       {/* Google Meet Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-teal-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-indigo-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/ebn-ibst-ajo
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-yellow-400">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-teal-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/hjx-xjby-mch
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-pink-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-lime-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/mxm-fzxh-tnx
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-indigo-200">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-rose-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/uof-upey-wmi
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-purple-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-cyan-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/uvh-rucp-rag
                           </a>
                         </td>
                       </tr>
@@ -569,7 +575,7 @@ const ConferenceSchedule = () => {
       </div>
 
       {/* Day 2 */}
-      <div className="bg-white shadow-md rounded-lg">
+      <div className="bg-white shadow-md rounded-lg font-bold">
         <h2 className="text-2x font-semibold text-gray-800 px-6 py-4 border-b">
           Day - 2: Monday, 23rd December 2024
         </h2>
@@ -588,169 +594,172 @@ const ConferenceSchedule = () => {
             {/* Table Body */}
             <tbody>
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className="p-5 bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   10:30-12:00
                 </td>
                 <td className=" text-gray-700  text-center ">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
                       <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
+                      {/* TS-16 to TS-20 with the updated colors */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center bg-green-400">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-green-400">
                           TS-16
                         </th>
-                        <th className="border-b text-center bg-cyan-400">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-cyan-400">
                           TS-17
                         </th>
-                        <th className="border-b text-center bg-orange-400">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-orange-400">
                           TS-18
                         </th>
-                        <th className="border-b text-center bg-pink-400">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-pink-400">
                           TS-19
                         </th>
-                        <th className="border-b text-center bg-gray-400">
+                        <th className="border border-gray-300 text-center py-2 px-4 bg-gray-400">
                           TS-20
                         </th>
                       </tr>
+                      {/* Room details */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xs bg-green-400">
-                          Dr. Vishal Singh, <br />
-                          Pondicherry University
-                          <br />
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-green-400">
+                          Prof. MPS Chawla, <br />
+                          SGSITS Indore <br />
                           <a
-                            href="mailto:vishal.singhcri@pondiuni.ac.in"
+                            href="mailto:mpschawla@gmail.com"
                             className="text-blue-500 text-xs underline"
                           >
-                            vishal.singhcri@pondiuni.ac.in
+                            mpschawla@gmail.com
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-cyan-400">
-                          Dr. Sandeep Rathor, <br />
-                          GLA University, Mathura
-                          <br />
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-cyan-400">
+                          Dr. Law Kumar Singh, <br />
+                          GLA University, <br />
                           <a
-                            href="mailto:andeep.rathor@gla.ac.in"
+                            href="mailto:law.kumar@gla.ac.in"
                             className="text-blue-500 text-xs underline"
                           >
-                            andeep.rathor@gla.ac.in
+                            law.kumar@gla.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-orange-400">
-                          Dr. Saroj Kumar Pandey, <br />
-                          GLA University, Mathura
-                          <br />
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-orange-400">
+                          Dr. Ramesh Patel, <br />
+                          IIT Bombay <br />
                           <a
-                            href="mailto:saroj.pandey@gla.ac.in"
+                            href="mailto:ramesh@iitb.ac.in"
                             className="text-blue-500 text-xs underline"
                           >
-                            saroj.pandey@gla.ac.in
+                            ramesh@iitb.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-pink-400">
-                          Dr. Malaya Dutta Borah, <br />
-                          NIT Silchar
-                          <br />
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-pink-400">
+                          Dr. Poonam Yadav, <br />
+                          NIT Kurukshetra <br />
                           <a
-                            href="mailto:malayaduttaborah@cse.nits.ac.in"
+                            href="mailto:poonamyadav@nitkkr.ac.in"
                             className="text-blue-500 text-xs underline"
                           >
-                            malayaduttaborah@cse.nits.ac.in
+                            poonamyadav@nitkkr.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-gray-400">
-                          Dr. Neeraj Shrivastava, <br />
-                          RJIT Tekanpur, Gwalior
-                          <br />
+                        <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-gray-400">
+                          Dr. Ankit Kumar, <br />
+                          IIT Delhi <br />
                           <a
-                            href="mailto:neeraj211269@gmail.com"
+                            href="mailto:ankit.kumar@iitd.ac.in"
                             className="text-blue-500 text-xs underline"
                           >
-                            neeraj211269@gmail.com
+                            ankit.kumar@iitd.ac.in
                           </a>
-                          <br />
                         </td>
                       </tr>
+
                       {/* Moderator Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-lime-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-green-400">
                           Moderator: Dr. Megha Singh <br />
                           8817623987
                         </td>
-                        <td className="border-b text-xxs bg-rose-300">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-cyan-400">
                           Moderator: Ms. Sonal Yadav <br />
                           8319980188
                         </td>
-                        <td className="border-b text-xxs bg-indigo-300">
-                          Moderator: Ms. Sonal Yadav <br />
-                          8319980188
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-orange-400">
+                          Moderator: Dr. Rahul Jain <br />
+                          9123456789
                         </td>
-                        <td className="border-b text-xxs bg-cyan-300">
-                          Moderator: Ms. Akanasha Pal <br />
-                          8602716434
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-pink-400">
+                          Moderator: Ms. Suman Kumari <br />
+                          9876543210
                         </td>
-                        <td className="border-b text-xxs bg-teal-300">
-                          Moderator: Mr. Manoj Kumar Biswkarma <br />
-                          9755136775
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-gray-400">
+                          Moderator: Mr. Ravi Shankar <br />
+                          8897765432
                         </td>
                       </tr>
 
                       {/* Google Meet Information */}
-                      <tr className="bg-gray-100 hover:bg-gray-200 ">
-                        <td className="border-b text-xxs bg-teal-300">
-                          Google Meet:{" "}
+                      <tr className="bg-gray-100 hover:bg-gray-200">
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-green-400">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/ebn-ibst-ajo
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-yellow-400">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-cyan-400">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/hjx-xjby-mch
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-pink-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-orange-400">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/mxm-fzxh-tnx
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-indigo-200">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-pink-400">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/uof-upey-wmi
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-purple-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs text-center py-2 px-4 bg-gray-400">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
                             className="text-blue-500 text-xs underline"
                           >
-                            Join
+                            https://meet.google.com/uvh-rucp-rag
                           </a>
                         </td>
                       </tr>
@@ -759,165 +768,167 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className=" bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   12:00-13:30
                 </td>
                 <td className=" text-gray-700  text-center ">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
-                      <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                      <tr className="bg-yellow-200-accent hover:bg-yellow-300">
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
+                      {/* Session Titles */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center bg-blue-300">
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-blue-300">
                           TS-21
-                        </th>
-                        <th className="border-b text-center bg-red-300">
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-red-300">
                           TS-22
-                        </th>
-                        <th className="border-b text-center bg-green-300">
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-green-300">
                           TS-23
-                        </th>
-                        <th className="border-b text-center bg-yellow-300">
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-yellow-300">
                           TS-24
-                        </th>
-                        <th className="border-b text-center bg-purple-300">
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-purple-300">
                           TS-25
-                        </th>
+                        </td>
                       </tr>
+
+                      {/* Speaker Details */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xs bg-blue-300">
-                          Jitender Jain, <br />
-                          Walmart Global Tech, USA <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-blue-300">
+                          Jitender Jain, <br /> Walmart Global Tech, USA <br />
                           <a
-                            href="mailto:jainjitender06@gmail.com"
-                            className="text-blue-500 text-xs underline"
+                            href="mailto:vagarwal@nitkkr.ac.in"
+                            className="text-blue-500 underline"
                           >
-                            jainjitender06@gmail.com
+                            vagarwal@nitkkr.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-red-300">
-                          Dr. Rahul Pradhan, <br />
-                          GLA University, Mathura <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-red-300">
+                          Dr. Rahul Pradhan, <br /> GLA University, Mathura{" "}
+                          <br />
                           <a
-                            href="mailto:rahul.pradhan@gla.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            href="mailto:hkshakya.rs.cse@iitbhu.ac.in"
+                            className="text-blue-500 underline"
                           >
-                            rahul.pradhan@gla.ac.in
+                            hkshakya.rs.cse@iitbhu.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-green-300">
-                          Dr. Dinesh Sharma, <br />
-                          Manipal University, Jaipur <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-green-300">
+                          Dr. Dinesh Sharma, <br /> Manipal University, Jaipur{" "}
+                          <br />
                           <a
                             href="mailto:sharma.dineshme@gmail.com"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
                             sharma.dineshme@gmail.com
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-yellow-300">
-                          Dr. Chandra Mani Sharma, <br />
-                          UPES Dehradun <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-yellow-300">
+                          Dr. Chandra Mani Sharma, <br /> UPES Dehradun <br />
                           <a
-                            href="mailto:cmsharma@ddn.upes.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            href="mailto:
+atulagrawal@orientaluniversity.in"
+                            className="text-blue-500 underline"
                           >
-                            cmsharma@ddn.upes.ac.in
+                            atulagrawal@orientaluniversity.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-purple-300">
-                          Dr. (Capt.) Sanjay Singh Kushwah, <br />
-                          GIIT Gwalior <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-purple-300">
+                          Dr. Ashish Bagwari, <br />
+                          WIT Dehradun <br />
                           <a
-                            href="mailto:sanjaykushwah15@gmail.com"
-                            className="text-blue-500 text-xs underline"
+                            href="mailto:ashishbagwari@wit.ac.in"
+                            className="text-blue-500 underline"
                           >
-                            sanjaykushwah15@gmail.com
+                            ashishbagwari@wit.ac.in
                           </a>
-                          <br />
                         </td>
                       </tr>
 
                       {/* Moderator Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-lime-300">
-                          Moderator: Dr. Megha Singh <br />
-                          8817623987
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-blue-300">
+                          Moderator: Dr. Megha Singh <br /> 8817623987
                         </td>
-                        <td className="border-b text-xxs bg-rose-300">
-                          Moderator: Ms. Sonal Yadav <br />
-                          8319980188
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-red-300">
+                          Moderator: Ms. Sonal Yadav <br /> 8319980188
                         </td>
-                        <td className="border-b text-xxs bg-indigo-300">
-                          Moderator: Ms. Sonal Yadav <br />
-                          8319980188
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-green-300">
+                          Moderator: Ms. Sonal Yadav <br /> 8319980188
                         </td>
-                        <td className="border-b text-xxs bg-cyan-300">
-                          Moderator: Ms. Akanasha Pal <br />
-                          8602716434
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-yellow-300">
+                          Moderator: Ms. Akanasha Pal <br /> 8602716434
                         </td>
-                        <td className="border-b text-xxs bg-teal-300">
-                          Moderator: Mr. Manoj Kumar Biswkarma <br />
-                          9755136775
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-purple-300">
+                          Moderator: Mr. Manoj Kumar Biswkarma <br /> 9755136775
                         </td>
                       </tr>
 
                       {/* Google Meet Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-teal-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-blue-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/ebn-ibst-ajo
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-yellow-400">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-red-400">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/hjx-xjby-mch
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-pink-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-green-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/mxm-fzxh-tnx
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-indigo-200">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-yellow-200-accent">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/uof-upey-wmi
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-purple-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-purple-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/uvh-rucp-rag
                           </a>
                         </td>
                       </tr>
@@ -927,7 +938,7 @@ const ConferenceSchedule = () => {
               </tr>
 
               <tr className="bg-gray-50 hover:bg-gray-100">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className=" bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   13:30-14:30
                 </td>
                 <td className="p-3 text-gray-700 text-center font-bold">
@@ -936,166 +947,167 @@ const ConferenceSchedule = () => {
               </tr>
 
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className=" bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   14:30-16:00
                 </td>
                 <td className=" text-gray-700  text-center ">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
-                      <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                      <tr className="bg-yellow-200-accent hover:bg-yellow-300">
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
+                      {/* Session Titles */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <th className="border-b text-center bg-teal-300">
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-indigo-300">
                           TS-26
-                        </th>
-                        <th className="border-b text-center bg-pink-300">
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-teal-300">
                           TS-27
-                        </th>
-                        <th className="border-b text-center bg-lime-300">
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-blue-300">
                           TS-28
-                        </th>
-                        <th className="border-b text-center bg-amber-300">
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-green-300">
                           TS-29
-                        </th>
-                        <th className="border-b text-center bg-fuchsia-300">
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-yellow-300">
                           TS-30
-                        </th>
+                        </td>
                       </tr>
 
+                      {/* Speaker Details */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xs bg-teal-300">
-                          Dr. Vaibhav Agarwal, <br />
-                          NIT Kurukshetra <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-indigo-300">
+                          Dr. Vaibhav Agarwal, <br /> NIT Kurukshetra <br />
                           <a
                             href="mailto:vagarwal@nitkkr.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
                             vagarwal@nitkkr.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-pink-300">
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-teal-300">
                           Dr. Harish Kumar Shakya, <br />
-                          Manipal University, Jaipur <br />
+                          Manipal University, Jaipur Mathura <br />
                           <a
                             href="mailto:hkshakya.rs.cse@iitbhu.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
                             hkshakya.rs.cse@iitbhu.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-lime-300">
-                          Dr. Amit Kumar Mishra, <br />
-                          SISTEC Bhopal <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-blue-300">
+                          Dr. Amit Kumar Mishra,
+                          <br /> SISTEC Bhopal <br />
                           <a
-                            href="mailto:sistec.hodcs@sistec.ac.in"
+                            href="mailto:sharma.dineshme@gmail.com"
+                            className="text-blue-500 underline"
+                          >
+                            sharma.dineshme@gmail.com
+                          </a>
+                        </td>
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-green-300">
+                          Dr. Neeraj Rathore , <br />
+                          IGNTU, Amarkantak <br />
+                          <a
+                            href="mailto:neeraj.rathore@igntu.ac.in"
                             className="text-blue-500 text-xs underline"
                           >
-                            sistec.hodcs@sistec.ac.in
+                            neeraj.rathore@igntu.ac.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-amber-300">
-                          Dr. Atul Agrawal, <br />
-                          Oriental University, Indore <br />
-                          <a
-                            href="mailto:atulagrawal@orientaluniversity.in"
-                            className="text-blue-500 text-xs underline"
-                          >
-                            atulagrawal@orientaluniversity.in
-                          </a>
-                          <br />
-                        </td>
-                        <td className="border-b text-xs bg-fuchsia-300">
-                          Dr. Kanta Prasad Sharma, <br />
-                          Amity University, Noida <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-yellow-300">
+                          Dr. Kanta Prasad Sharma, <br /> Amity University,
+                          Noida <br />
                           <a
                             href="mailto:kpsharma@gn.amity.edu"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
                             kpsharma@gn.amity.edu
                           </a>
-                          <br />
                         </td>
                       </tr>
 
                       {/* Moderator Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-lime-300">
-                          Moderator: Dr. Megha Singh <br />
-                          8817623987
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-indigo-300">
+                          Moderator: Dr. Megha Singh <br /> 8817623987
                         </td>
-                        <td className="border-b text-xxs bg-rose-300">
-                          Moderator: Ms. Sonal Yadav <br />
-                          8319980188
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-teal-300">
+                          Moderator: Ms. Sonal Yadav <br /> 8319980188
                         </td>
-                        <td className="border-b text-xxs bg-indigo-300">
-                          Moderator: Ms. Sonal Yadav <br />
-                          8319980188
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-blue-300">
+                          Moderator: Ms. Sonal Yadav <br /> 8319980188
                         </td>
-                        <td className="border-b text-xxs bg-cyan-300">
-                          Moderator: Ms. Akanasha Pal <br />
-                          8602716434
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-green-300">
+                          Moderator: Ms. Akanasha Pal <br /> 8602716434
                         </td>
-                        <td className="border-b text-xxs bg-teal-300">
-                          Moderator: Mr. Manoj Kumar Biswkarma <br />
-                          9755136775
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-yellow-300">
+                          Moderator: Mr. Manoj Kumar Biswkarma <br /> 9755136775
                         </td>
                       </tr>
 
                       {/* Google Meet Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-teal-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-indigo-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/ebn-ibst-ajo
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-yellow-400">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-teal-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/hjx-xjby-mch
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-pink-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-blue-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/mxm-fzxh-tnx
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-indigo-200">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-green-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/uof-upey-wmi
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-purple-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-yellow-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-500 underline"
                           >
-                            Join
+                            https://meet.google.com/uvh-rucp-rag
                           </a>
                         </td>
                       </tr>
@@ -1104,144 +1116,168 @@ const ConferenceSchedule = () => {
                 </td>
               </tr>
               <tr className="bg-white hover:bg-gray-100 text-center">
-                <td className=" bg-red-200 border-r text-gray-700 text-center whitespace-nowrap">
+                <td className=" bg-red-200 border-r text-gray-700 text-center font-bold whitespace-nowrap">
                   16:00-17:45
                 </td>
                 <td className=" text-gray-700  text-center ">
                   <table className="min-w-full bg-white text-gray-800 rounded-lg shadow-md border border-gray-300">
                     <thead>
-                      <tr className="bg-yellow-200-accent">
-                        <th className="text-center">Room A</th>
-                        <th className="text-center">Room B</th>
-                        <th className="text-center">Room C</th>
-                        <th className="text-center">Room D</th>
-                        <th className="text-center">Room E</th>
+                      <tr className="bg-yellow-200-accent hover:bg-yellow-300-accent">
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room A
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room B
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room C
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room D
+                        </th>
+                        <th className="border border-gray-300 text-center py-2 px-4">
+                          Room E
+                        </th>
                       </tr>
                     </thead>
                     <tbody>
+                      {/* Session Titles */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xs bg-pink-300">
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-pink-300">
+                          TS-31
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-orange-300">
+                          TS-32
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-teal-300">
+                          TS-33
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-indigo-300">
+                          TS-34
+                        </td>
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-gray-300">
+                          TS-35
+                        </td>
+                      </tr>
+
+                      {/* Speaker Details */}
+                      <tr className="bg-gray-100 hover:bg-gray-200">
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-pink-300">
                           Dr. Shitanshu Jain, <br />
                           Manipal University, Jaipur <br />
                           <a
-                            href="mailto:"
-                            className="text-blue-500 text-xs underline"
-                          ></a>
-                          <br />
+                            href="mailto:shitanshu.jain@jaipur.manipal.edu"
+                            className="text-pink-500 underline"
+                          >
+                            shitanshu.jain@jaipur.manipal.edu
+                          </a>
                         </td>
-                        <td className="border-b text-xs bg-indigo-300">
-                          Dr. Madhu Sudan Kumar, <br />
-                          GLA University, Mathura <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-orange-300">
+                          Dr. Madhu Sudan Kumar, <br /> GLA University, Mathura{" "}
+                          <br />
                           <a
-                            href="mailto:"
-                            className="text-blue-500 text-xs underline"
-                          ></a>
-                          <br />
+                            href="mailto:madhu.kumar@gla.ac.in"
+                            className="text-orange-500 underline"
+                          >
+                            {" "}
+                            madhu.kumar@gla.ac.in
+                          </a>
                         </td>
-                        <td className="border-b text-xs bg-yellow-300">
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-teal-300">
                           Dr. Mamta Meena, <br />
                           Oriental University, Indore <br />
                           <a
                             href="mailto:mamtameena@orientaluniversity.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-teal-500 underline"
                           >
                             mamtameena@orientaluniversity.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-green-300">
-                          Dr. Amit Saxena, <br />
-                          Oriental University, Indore <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-indigo-300">
+                          Dr. Amit Saxena, <br /> Oriental University, Indore{" "}
+                          <br />
                           <a
                             href="mailto:amitsaxena@orientaluniversity.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-indigo-500 underline"
                           >
                             amitsaxena@orientaluniversity.in
                           </a>
-                          <br />
                         </td>
-                        <td className="border-b text-xs bg-purple-300">
-                          Dr. Chanchal Kumar, <br />
-                          IIIT Sonipat <br />
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-gray-300">
+                          Dr. Chanchal Kumar, <br /> IIIT Sonipat <br />
                           <a
-                            href="mailto:ckumar@iiitsonepat.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            href="mailto: ckumar@iiitsonepat.ac.in"
+                            className="text-gray-700 underline"
                           >
                             ckumar@iiitsonepat.ac.in
                           </a>
-                          <br />
                         </td>
                       </tr>
 
                       {/* Moderator Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-lime-300">
-                          Moderator: Dr. Megha Singh <br />
-                          8817623987
+                        <td className="border border-gray-300 py-2 px-4 text-xxs bg-pink-300">
+                          Moderator: Dr. Megha Singh <br /> 8817623987
                         </td>
-                        <td className="border-b text-xxs bg-rose-300">
-                          Moderator: Ms. Sonal Yadav <br />
-                          8319980188
+                        <td className="border border-gray-300 py-2 px-4 text-xxs bg-orange-300">
+                          Moderator: Ms. Sonal Yadav <br /> 8319980188
                         </td>
-                        <td className="border-b text-xxs bg-indigo-300">
-                          Moderator: Ms. Sonal Yadav <br />
-                          8319980188
+                        <td className="border border-gray-300 py-2 px-4 text-xxs bg-teal-300">
+                          Moderator: Ms. Sonal Yadav <br /> 8319980188
                         </td>
-                        <td className="border-b text-xxs bg-cyan-300">
-                          Moderator: Ms. Akanasha Pal <br />
-                          8602716434
+                        <td className="border border-gray-300 py-2 px-4 text-xxs bg-indigo-300">
+                          Moderator: Ms. Akanasha Pal <br /> 8602716434
                         </td>
-                        <td className="border-b text-xxs bg-teal-300">
-                          Moderator: Mr. Manoj Kumar Biswkarma <br />
-                          9755136775
+                        <td className="border border-gray-300 py-2 px-4 text-xxs bg-gray-300">
+                          Moderator: Mr. Manoj Kumar Biswkarma <br /> 9755136775
                         </td>
                       </tr>
 
                       {/* Google Meet Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border-b text-xxs bg-teal-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-pink-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-blue-500 text-xs underline"
+                            className="text-pink-500 underline"
                           >
-                            Join
+                            https://meet.google.com/ebn-ibst-ajo
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-yellow-400">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-orange-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-blue-500 text-xs underline"
+                            className="text-orange-500 underline"
                           >
-                            Join
+                            https://meet.google.com/hjx-xjby-mch
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-pink-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-teal-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-blue-500 text-xs underline"
+                            className="text-teal-500 underline"
                           >
-                            Join
+                            https://meet.google.com/mxm-fzxh-tnx
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-indigo-200">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-indigo-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-blue-500 text-xs underline"
+                            className="text-indigo-500 underline"
                           >
-                            Join
+                            https://meet.google.com/uof-upey-wmi
                           </a>
                         </td>
-                        <td className="border-b text-xxs bg-purple-300">
-                          Google Meet:{" "}
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-gray-300">
+                          Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-blue-500 text-xs underline"
+                            className="text-gray-700 underline"
                           >
-                            Join
+                            https://meet.google.com/uvh-rucp-rag
                           </a>
                         </td>
                       </tr>
