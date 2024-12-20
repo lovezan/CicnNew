@@ -77,7 +77,7 @@ const ConferenceSchedule = () => {
                           <br />
                           <a
                             href="mailto:viveksinghk_ece@cbit.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             viveksinghk_ece@cbit.ac.in
                           </a>
@@ -89,7 +89,7 @@ const ConferenceSchedule = () => {
                           <br />
                           <a
                             href="mailto:ajeet.singh@galgoatisuniversity.edu.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             ajeet.singh@galgoatisuniversity.edu.in
                           </a>
@@ -101,7 +101,7 @@ const ConferenceSchedule = () => {
                           <br />
                           <a
                             href="mailto:dipak.sah@gla.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             dipak.sah@gla.ac.in
                           </a>
@@ -113,7 +113,7 @@ const ConferenceSchedule = () => {
                           <br />
                           <a
                             href="mailto:arvind.mewada@bennett.edu.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             arvind.mewada@bennett.edu.in
                           </a>
@@ -125,7 +125,7 @@ const ConferenceSchedule = () => {
                           <br />
                           <a
                             href="mailto:kishankesri1996@gmail.com"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             kishankesri1996@gmail.com
                           </a>
@@ -163,7 +163,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/ebn-ibst-ajo
                           </a>
@@ -172,7 +172,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/hjx-xjby-mch
                           </a>
@@ -181,7 +181,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/mxm-fzxh-tnx
                           </a>
@@ -190,7 +190,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/uof-upey-wmi
                           </a>
@@ -199,7 +199,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/uvh-rucp-rag
                           </a>
@@ -265,7 +265,7 @@ const ConferenceSchedule = () => {
                           <br />
                           <a
                             href="mailto:atulagrawal@orientaluniversity.in"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             atulagrawal@orientaluniversity.in
                           </a>
@@ -275,7 +275,7 @@ const ConferenceSchedule = () => {
                           Bennett University, Noida <br />
                           <a
                             href="mailto:mohd.aquib@bennett.edu.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             mohd.aquib@bennett.edu.in
                           </a>
@@ -285,7 +285,7 @@ const ConferenceSchedule = () => {
                           Galgotias University, Noida <br />
                           <a
                             href="mailto:munish.khanna@galgotiasuniversity.edu.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             munish.khanna@galgotiasuniversity.edu.in
                           </a>
@@ -295,7 +295,7 @@ const ConferenceSchedule = () => {
                           MITS Gwalior <br />
                           <a
                             href="mailto:shishir.dixit1@mitsgwalior.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             shishir.dixit1@mitsgwalior.in
                           </a>
@@ -305,7 +305,7 @@ const ConferenceSchedule = () => {
                           PSIT Kanpur <br />
                           <a
                             href="mailto:brijeshchaurasia@ieee.org"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             brijeshchaurasia@ieee.org
                           </a>
@@ -342,7 +342,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/ebn-ibst-ajo
                           </a>
@@ -351,7 +351,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/hjx-xjby-mch
                           </a>
@@ -360,7 +360,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/mxm-fzxh-tnx
                           </a>
@@ -369,7 +369,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/uof-upey-wmi
                           </a>
@@ -378,7 +378,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/uvh-rucp-rag
                           </a>
@@ -445,10 +445,10 @@ const ConferenceSchedule = () => {
                           Prof. MPS Chawla, <br />
                           SGSITS Indore <br />
                           <a
-                            href="mailto:mpschawla@gmail.com"
-                            className="text-blue-500 text-xs underline"
+                            href="mailto:vishal.singhchi@pondiuni.ac.in"
+                            className="text-blue-800 text-xs underline"
                           >
-                            mpschawla@gmail.com
+                            vishal.singhchi@pondiuni.ac.in
                           </a>
                         </td>
                         <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-teal-300">
@@ -456,7 +456,7 @@ const ConferenceSchedule = () => {
                           GLA University, Mathura <br />
                           <a
                             href="mailto:law.singh@gla.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             law.singh@gla.ac.in
                           </a>
@@ -466,7 +466,7 @@ const ConferenceSchedule = () => {
                           ABV-IIITM Gwalior <br />
                           <a
                             href="mailto:somesh@iiitm.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             somesh@iiitm.ac.in
                           </a>
@@ -476,7 +476,7 @@ const ConferenceSchedule = () => {
                           GNIT, Gr. Noida <br />
                           <a
                             href="mailto:me.ssaurabh@gmail.com"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             me.ssaurabh@gmail.com
                           </a>
@@ -486,7 +486,7 @@ const ConferenceSchedule = () => {
                           GLA University, Mathura <br />
                           <a
                             href="mailto:abhaypratap00@gmail.com"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             abhaypratap00@gmail.com
                           </a>
@@ -523,7 +523,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/ebn-ibst-ajo
                           </a>
@@ -532,7 +532,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/hjx-xjby-mch
                           </a>
@@ -541,7 +541,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/mxm-fzxh-tnx
                           </a>
@@ -550,7 +550,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/uof-upey-wmi
                           </a>
@@ -559,7 +559,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/uvh-rucp-rag
                           </a>
@@ -640,13 +640,14 @@ const ConferenceSchedule = () => {
                       {/* Room details */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
                         <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-green-400">
-                          Prof. MPS Chawla, <br />
-                          SGSITS Indore <br />
+                          Dr. Vishal Singh <br />
+                          Pondicherry University
+                          <br />
                           <a
-                            href="mailto:mpschawla@gmail.com"
-                            className="text-blue-500 text-xs underline"
+                            href="mailto:vishal.singhchi@pondiuni.ac.in"
+                            className="text-blue-800 text-xs underline"
                           >
-                            mpschawla@gmail.com
+                            vishal.singhchi@pondiuni.ac.in
                           </a>
                         </td>
                         <td className="border border-gray-300 text-xs text-center py-2 px-4 bg-cyan-400">
@@ -654,7 +655,7 @@ const ConferenceSchedule = () => {
                           GLA University, <br />
                           <a
                             href="mailto:law.kumar@gla.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             law.kumar@gla.ac.in
                           </a>
@@ -664,7 +665,7 @@ const ConferenceSchedule = () => {
                           IIT Bombay <br />
                           <a
                             href="mailto:ramesh@iitb.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             ramesh@iitb.ac.in
                           </a>
@@ -674,7 +675,7 @@ const ConferenceSchedule = () => {
                           NIT Kurukshetra <br />
                           <a
                             href="mailto:poonamyadav@nitkkr.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             poonamyadav@nitkkr.ac.in
                           </a>
@@ -684,7 +685,7 @@ const ConferenceSchedule = () => {
                           IIT Delhi <br />
                           <a
                             href="mailto:ankit.kumar@iitd.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             ankit.kumar@iitd.ac.in
                           </a>
@@ -721,7 +722,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/ebn-ibst-ajo
                           </a>
@@ -730,7 +731,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/hjx-xjby-mch
                           </a>
@@ -739,7 +740,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/mxm-fzxh-tnx
                           </a>
@@ -748,7 +749,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/uof-upey-wmi
                           </a>
@@ -757,7 +758,7 @@ const ConferenceSchedule = () => {
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             https://meet.google.com/uvh-rucp-rag
                           </a>
@@ -795,7 +796,7 @@ const ConferenceSchedule = () => {
                     <tbody>
                       {/* Session Titles */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border border-gray-300 text-center py-2 px-4 bg-blue-300">
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-orange-300">
                           TS-21
                         </td>
                         <td className="border border-gray-300 text-center py-2 px-4 bg-red-300">
@@ -814,11 +815,11 @@ const ConferenceSchedule = () => {
 
                       {/* Speaker Details */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border border-gray-300 text-xs py-2 px-4 bg-blue-300">
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-orange-300">
                           Jitender Jain, <br /> Walmart Global Tech, USA <br />
                           <a
                             href="mailto:vagarwal@nitkkr.ac.in"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             vagarwal@nitkkr.ac.in
                           </a>
@@ -828,7 +829,7 @@ const ConferenceSchedule = () => {
                           <br />
                           <a
                             href="mailto:hkshakya.rs.cse@iitbhu.ac.in"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             hkshakya.rs.cse@iitbhu.ac.in
                           </a>
@@ -838,7 +839,7 @@ const ConferenceSchedule = () => {
                           <br />
                           <a
                             href="mailto:sharma.dineshme@gmail.com"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             sharma.dineshme@gmail.com
                           </a>
@@ -848,7 +849,7 @@ const ConferenceSchedule = () => {
                           <a
                             href="mailto:
 atulagrawal@orientaluniversity.in"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             atulagrawal@orientaluniversity.in
                           </a>
@@ -858,7 +859,7 @@ atulagrawal@orientaluniversity.in"
                           WIT Dehradun <br />
                           <a
                             href="mailto:ashishbagwari@wit.ac.in"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             ashishbagwari@wit.ac.in
                           </a>
@@ -867,7 +868,7 @@ atulagrawal@orientaluniversity.in"
 
                       {/* Moderator Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-blue-300">
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-orange-300">
                           Moderator: Dr. Megha Singh <br /> 8817623987
                         </td>
                         <td className="border border-gray-300 text-xxs py-2 px-4 bg-red-300">
@@ -886,11 +887,11 @@ atulagrawal@orientaluniversity.in"
 
                       {/* Google Meet Information */}
                       <tr className="bg-gray-100 hover:bg-gray-200">
-                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-blue-300">
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-orange-300">
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/ebn-ibst-ajo
                           </a>
@@ -899,7 +900,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/hjx-xjby-mch
                           </a>
@@ -908,7 +909,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/mxm-fzxh-tnx
                           </a>
@@ -917,7 +918,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/uof-upey-wmi
                           </a>
@@ -926,7 +927,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/uvh-rucp-rag
                           </a>
@@ -980,7 +981,7 @@ atulagrawal@orientaluniversity.in"
                         <td className="border border-gray-300 text-center py-2 px-4 bg-teal-300">
                           TS-27
                         </td>
-                        <td className="border border-gray-300 text-center py-2 px-4 bg-blue-300">
+                        <td className="border border-gray-300 text-center py-2 px-4 bg-orange-300">
                           TS-28
                         </td>
                         <td className="border border-gray-300 text-center py-2 px-4 bg-green-300">
@@ -997,7 +998,7 @@ atulagrawal@orientaluniversity.in"
                           Dr. Vaibhav Agarwal, <br /> NIT Kurukshetra <br />
                           <a
                             href="mailto:vagarwal@nitkkr.ac.in"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             vagarwal@nitkkr.ac.in
                           </a>
@@ -1007,17 +1008,17 @@ atulagrawal@orientaluniversity.in"
                           Manipal University, Jaipur Mathura <br />
                           <a
                             href="mailto:hkshakya.rs.cse@iitbhu.ac.in"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             hkshakya.rs.cse@iitbhu.ac.in
                           </a>
                         </td>
-                        <td className="border border-gray-300 text-xs py-2 px-4 bg-blue-300">
+                        <td className="border border-gray-300 text-xs py-2 px-4 bg-orange-300">
                           Dr. Amit Kumar Mishra,
                           <br /> SISTEC Bhopal <br />
                           <a
                             href="mailto:sharma.dineshme@gmail.com"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             sharma.dineshme@gmail.com
                           </a>
@@ -1027,7 +1028,7 @@ atulagrawal@orientaluniversity.in"
                           IGNTU, Amarkantak <br />
                           <a
                             href="mailto:neeraj.rathore@igntu.ac.in"
-                            className="text-blue-500 text-xs underline"
+                            className="text-blue-800 text-xs underline"
                           >
                             neeraj.rathore@igntu.ac.in
                           </a>
@@ -1037,7 +1038,7 @@ atulagrawal@orientaluniversity.in"
                           Noida <br />
                           <a
                             href="mailto:kpsharma@gn.amity.edu"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             kpsharma@gn.amity.edu
                           </a>
@@ -1052,7 +1053,7 @@ atulagrawal@orientaluniversity.in"
                         <td className="border border-gray-300 text-xxs py-2 px-4 bg-teal-300">
                           Moderator: Ms. Sonal Yadav <br /> 8319980188
                         </td>
-                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-blue-300">
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-orange-300">
                           Moderator: Ms. Sonal Yadav <br /> 8319980188
                         </td>
                         <td className="border border-gray-300 text-xxs py-2 px-4 bg-green-300">
@@ -1069,7 +1070,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/ebn-ibst-ajo
                           </a>
@@ -1078,16 +1079,16 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/hjx-xjby-mch
                           </a>
                         </td>
-                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-blue-300">
+                        <td className="border border-gray-300 text-xxs py-2 px-4 bg-orange-300">
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/mxm-fzxh-tnx
                           </a>
@@ -1096,7 +1097,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/uof-upey-wmi
                           </a>
@@ -1105,7 +1106,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-blue-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/uvh-rucp-rag
                           </a>
@@ -1194,13 +1195,12 @@ atulagrawal@orientaluniversity.in"
                           </a>
                         </td>
                         <td className="border border-gray-300 text-xs py-2 px-4 bg-indigo-300">
-                          Dr. Amit Saxena, <br /> Oriental University, Indore{" "}
-                          <br />
+                          Dr. Rajesh K Shukla <br /> OIST Bhopal <br />
                           <a
-                            href="mailto:amitsaxena@orientaluniversity.in"
+                            href="mailto:rajeshshukla@oriental.ac.in"
                             className="text-indigo-500 underline"
                           >
-                            amitsaxena@orientaluniversity.in
+                            rajeshshukla@oriental.ac.in
                           </a>
                         </td>
                         <td className="border border-gray-300 text-xs py-2 px-4 bg-gray-300">
@@ -1239,7 +1239,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/ebn-ibst-ajo"
-                            className="text-pink-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/ebn-ibst-ajo
                           </a>
@@ -1248,7 +1248,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/hjx-xjby-mch"
-                            className="text-orange-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/hjx-xjby-mch
                           </a>
@@ -1257,7 +1257,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/mxm-fzxh-tnx"
-                            className="text-teal-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/mxm-fzxh-tnx
                           </a>
@@ -1266,7 +1266,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uof-upey-wmi"
-                            className="text-indigo-500 underline"
+                            className="text-blue-800 underline"
                           >
                             https://meet.google.com/uof-upey-wmi
                           </a>
@@ -1275,7 +1275,7 @@ atulagrawal@orientaluniversity.in"
                           Google Meet: <br />
                           <a
                             href="https://meet.google.com/uvh-rucp-rag"
-                            className="text-gray-700 underline"
+                            className="text-blue-700 underline"
                           >
                             https://meet.google.com/uvh-rucp-rag
                           </a>

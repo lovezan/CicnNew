@@ -147,13 +147,13 @@ const ConferenceSchedule = () => {
                           A-1, A-2, A-3, A-4, A-5, A-11
                         </td>
                         <td className="border border-gray-300 text-sm text-center py-2 px-4">
-                          B-7, B-8, B-9, B-10, B-11, B-26
+                          B-1 B-7, B-8, B-9, B-10, B-11, B-26,
                         </td>
                         <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           C-19, C-20, C-21, C-22, C-23, C-24
                         </td>
                         <td className="border border-gray-300 text-sm text-center py-2 px-4">
-                          E-7, E-8, E-9, E-10, E-19, E-38
+                          E-7, E-8, E-9, E-10, E-19, E-38,H-31
                         </td>
                         <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           G-13, G-14, G-15, C-25, C-26, D-7
@@ -214,7 +214,7 @@ const ConferenceSchedule = () => {
                       </tr>
                       <tr className="bg-gray-100 hover:bg-gray-200">
                         <td className="border border-gray-300 text-sm text-center py-2 px-4">
-                          B-1, B-2, B-3, B-4, B-5, B-6
+                          B-2, B-3, B-4, B-5, B-6
                         </td>
                         <td className="border border-gray-300 text-sm text-center py-2 px-4">
                           C-1, C-2, C-3, C-4, C-5, C-6
@@ -312,7 +312,7 @@ const ConferenceSchedule = () => {
       </div>
 
       {/* Day 2 */}
-      <div className="bg-white shadow-md rounded-lg">
+      <div className="bg-white shadow-md rounded-lg font-bold">
         <h2 className="text-2x font-semibold text-gray-800 px-6 py-4 border-b">
           Day - 2: Monday, 23rd December 2024
         </h2>
