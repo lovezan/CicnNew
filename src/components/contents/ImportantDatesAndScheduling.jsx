@@ -27,7 +27,7 @@ const ImportantDatesAndScheduling = () => {
   };
 
   return (
-    <div className="p-6 bg-gray-100 text-gray-800">
+    <div id="scheduling" className="p-6 bg-gray-100 text-gray-800">
       {/* Header Section */}
       <div className="text-center mb-6">
         <FaClock className="text-4xl text-blue-500 mx-auto mb-2" />
@@ -36,7 +36,6 @@ const ImportantDatesAndScheduling = () => {
         </h1>
       </div>
       <ScheduleTable />
-    
 
       {/* Notice Section */}
       <div className="text-center mb-6 text-lg text-gray-700">

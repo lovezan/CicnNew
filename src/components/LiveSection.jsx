@@ -1,37 +1,63 @@
-import React, { useState, useEffect } from 'react';
+const LiveSection = ({ handleClick }) => {
+  // Smooth scroll to the section based on the item clicked
+  const scrollToSection = (section) => {
+    const element = document.getElementById(section);
+    if (element) {
+      window.scrollTo({
+        top: element.offsetTop,
+        behavior: "smooth",
+      });
+    }
+  };
 
-const LiveSection = () => {
-  // State to manage the animated text
-  const [text, setText] = useState("16th IEEE International Conference CICN 2024");
+  // Close menu and scroll to the target section
+  const handleItemClick = (item) => {
+    if (handleClick) {
+      handleClick(item);
+    }
+    scrollToSection(item); // Scroll to the target section
+  };
 
-  // Function to change the text every few seconds
-  useEffect(() => {
-    const textArray = [
-      "16th IEEE International Conference CICN 2024",
-      // "Join Us for Groundbreaking Research and Networking",
-      // "Get the Latest Updates and Live Streams Here"
-    ];
-    let index = 0;
-
-    const interval = setInterval(() => {
-      index = (index + 1) % textArray.length;
-      setText(textArray[index]);
-    }, 3000); // Change text every 3 seconds
-
-    return () => clearInterval(interval);
-  }, []);
+  // Redirect to YouTube live stream
+  const redirectToYouTube = () => {
+    window.open("https://youtube.com/@orientaluniversityindore", "_blank");
+  };
 
   return (
-    <section className="bg-gradient-to-r from-[#e0f7fa] to-[#81d4fa] p-4 rounded-lg shadow-lg mt-3 max-w-4xl mx-auto">
-      <div className="container mx-auto">
-        {/* Animated Text with Live Symbol */}
-        {/* <div className="flex items-center justify-center text-xl md:text-2xl font-semibold mb-3 text-green-800"> */}
-        
-        {/* Static Content */}
-        <div className="text-xs sm:text-sm md:text-base lg:text-lg font-semibold text-red-600 text-center space-y-2">
-          <p>
-            A conference proceedings that meet IEEE quality review standards may be eligible for inclusion in the IEEE Xplore Digital Library. IEEE reserves the right not to publish any proceedings that do not meet these standards.
-          </p>
+    <section className="bg-gradient-to-r from-[#e0f7fa] to-[#81d4fa] p-8 rounded-xl shadow-2xl mt-6 max-w-5xl mx-auto">
+      <div className="text-center space-y-6">
+        {/* Conference Standards Info */}
+        <p className="text-sm sm:text-base md:text-lg font-medium text-red-600 leading-relaxed max-w-3xl mx-auto">
+          Conference proceedings that meet IEEE quality standards may be
+          eligible for inclusion in the IEEE Xplore Digital Library. IEEE
+          reserves the right not to publish proceedings that do not meet these
+          standards.
+        </p>
+
+        {/* Live Streaming Info */}
+        <p className="text-base  md:text-lg font-normal text-red-600">
+          Live Streaming of Opening Ceremony and Keynote CICN 2024, Oriental
+          University, Indore (MP)
+        </p>
+
+        {/* Buttons */}
+        <div className="flex justify-center gap-6 mt-6">
+          {/* Watch Live Button */}
+          {/* Watch Live Button */}
+          <button
+            onClick={redirectToYouTube}
+            className="bg-gradient-to-r from-red-300 to-red-400 text-white font-semibold text-sm md:text-base py-3 px-8 rounded-full shadow-md hover:bg-gradient-to-r hover:from-red-600 hover:to-red-700 hover:shadow-lg hover:scale-105 transition-transform duration-300"
+          >
+            Watch Live on YouTube
+          </button>
+
+          {/* Important Dates/Scheduling Button */}
+          <button
+            onClick={() => handleItemClick("ImportantDates Scheduling")}
+            className="bg-gradient-to-r from-green-500 to-green-600 text-white font-semibold text-sm md:text-base py-3 px-8 rounded-full shadow-md hover:shadow-lg hover:scale-105 transition-transform duration-300"
+          >
+            View Schedule
+          </button>
         </div>
       </div>
     </section>
